@@ -11,8 +11,8 @@ Datasets of real-world configuration errors and their troubleshooting studies.
 
 ### Collecting and analyzing: 
 
-1 - We selected 2,313 solved and configuration-related cases from nearly 167.8 thousand total items through the three automatically steps.
+1. We selected 2,313 solved and configuration-related cases from nearly 167.8 thousand total items through the three automatically steps.
 
-2 - we manually inspected all 2,313 cases following two principles. The manual analysis took five graduate students who all have a computer science bachelor degree a total of two man-months. 
+2. we manually inspected all 2,313 cases following two principles. The manual analysis took five graduate students who all have a computer science bachelor degree a total of two man-months. 
 
-3 - Finally, we sampled out 823 real-world misconfigurations cases. 
+3. Finally, we sampled out 823 real-world misconfigurations cases. 
