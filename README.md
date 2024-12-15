@@ -1,4 +1,4 @@
-# misconfiguration_datasets
+# Misconfiguration Datasets
 Datasets of real-world configuration errors and their troubleshooting studies.
 
 
