@@ -52,7 +52,7 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 ### targets and sources
 1. We conducted manual search on 13 top conferences and journals.
 2. We crawled the papers from the top venues from December 2003 to September 2024. The keyword set includes `configuration\*`, `misconfiguration\*`, `configure\*`, `configuration error\*`.
-and configuration fault\*.
+and `configuration fault\*`.
 3. We verified papers that were relevant to our research objective, i.e., software misconfiguration detection and diagnosis.
 4. We searched for the papers cited by these papers or those cited these papers and identified whether they were relevant papers.
 
