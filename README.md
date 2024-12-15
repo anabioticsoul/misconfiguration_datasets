@@ -1,7 +1,10 @@
 # Misconfiguration Datasets
 This datasets consist of real-world misconfiguration cases, papers for misconfiguration troubleshooting, and six reproduced scenarios in Docker.
+
 cases/: It contains both raw data and the labeled datasets of the real-world misconfiguration cases.
+
 papers/: It contains a list of papers for misconfiguration troubleshooting.
+
 reproduced_scenarios/: It contains six reproduced real-world software misconfiguration scenarios which is wrapped Docker containers.
 
 ## Misconfiguration cases
@@ -26,10 +29,27 @@ reproduced_scenarios/: It contains six reproduced real-world software misconfigu
 2. we manually inspected all 2,313 cases and sampled out 823 real-world misconfigurations cases.
 3. We categorized the root causes of misconfigurations into four groups, i.e., constraint violation, resource unavailability, component-dependency error, and misunderstanding of configuration effects.
 
+| **Type**                                | **Subtype**                         | **# Cases** |
+|-----------------------------------------|-------------------------------------|-------------|
+| **Constraint violation**                | Syntax error                        | 52          |
+|                                         | Invalid name                        | 13          |
+|                                         | Misplaced configuration             | 25          |
+|                                         | Duplicate option                    | 14          |
+|                                         | Multi-configuration error           | 7           |
+| **Resource unavailability**             | Resource identifier mismatch        | 165         |
+|                                         | Resource competition                | 9           |
+|                                         | Unauthorized resource access        | 58          |
+|                                         | Hardware limitation                 | 8           |
+| **Component-dependency error**          | Component incompatibility           | 56          |
+|                                         | Component missing                   | 40          |
+|                                         | Cross-component misconfiguration    | 23          |
+| **Misunderstanding of configuration effects** | Business functionality deviation    | 316         |
+|                                         | Performance degradation             | 20          |
+|                                         | Security risk                       | 17          |
 
 
 ## Misconfiguration troubleshooting papers
-TODO
+The list of papers for misconfiguration troubleshooting includes `YEAR, TITLE, LINK`.
 
 ## Reproduced misconfiguration scenarios
-TODO
+Each compressed file is named after the `case ID` and only contains one real-world misconfiguration scenario.
