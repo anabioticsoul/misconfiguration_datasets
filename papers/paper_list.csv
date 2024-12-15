@@ -1,0 +1,55 @@
+﻿Year,Title,Link
+2003,"STRIDER: A Black-box, State-based Approach to Change and Configuration Management and
+Support",https://www.sciencedirect.com/science/article/pii/S0167642304000760
+2003,PeerPressure: A Statistical Method for Automatic Misconfiguration Troubleshooting,http://www.nicemice.net/helen/papers/msr-tr-03-80.pdf
+2004,Configuration debugging as search: Finding the needle in the haystack,https://www.usenix.org/legacy/event/osdi04/tech/full_papers/whitaker/whitaker_html/
+2004,Combining High Level Symptom Descriptions and Low Level State Information for Configuration Fault Diagnosis,https://www.usenix.org/legacy/event/lisa04/tech/full_papers/lao/lao_html/
+2006,Automated known problem diagnosis with event traces,https://dl.acm.org/doi/abs/10.1145/1218063.1217972
+2007,Triage: Diagnosing production run failures at the user’s site,https://dl.acm.org/doi/abs/10.1145/1323293.1294275
+2007,AutoBash: Improving con guration management with operating system causality analysis,https://dl.acm.org/doi/abs/10.1145/1323293.1294284
+2007,Snitch: Interactive decision trees for troubleshooting misconfigurations,https://www.usenix.org/legacy/event/sysml07/tech/full_papers/mickens/mickens.pdf
+2008,Using causality to diagnose configuration bugs,https://www.usenix.org/legacy/event/usenix08/tech/full_papers/attariyan/attariyan_html/
+2008,Automatic software fault diagnosis by exploiting application signatures,https://www.usenix.org/legacy/events/lisa08/tech/full_papers/ding/ding_html/
+2008,Towards Automatic Reverse Engineering of Software Security Configurations,https://dl.acm.org/doi/abs/10.1145/1455770.1455802
+2009,Automatically Generating Predicates and Solutions for Configuration Troubleshooting,https://www.usenix.org/legacy/events/usenix09/tech/full_papers/su/su.pdf
+2010,Automating Configuration Troubleshooting with Dynamic Information Flow Analysis,https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Attariyan.pdf
+2010,SherLog: Error Diagnosis by Connecting Clues from Run-time Logs,https://dl.acm.org/doi/abs/10.1145/1736020.1736038
+2011,Precomputing Possible Configuration Error Diagnoses,https://ieeexplore.ieee.org/abstract/document/6100053
+2011,Context-based Online Configuration-Error Detection,https://www.usenix.org/legacy/events/atc11/tech/final_files/Yuan.pdf
+2011,Capturing Expert Knowledge for Automated Configuration Fault Diagnosis,https://ieeexplore.ieee.org/abstract/document/5970183
+2012,X-ray: Automating Root-Cause Diagnosis of Performance Anomalies in Production Software,https://www.usenix.org/conference/osdi12/technical-sessions/presentation/attariyan
+2012,Misconfiguration Detection for Cloud Datacenters using Decision Tree Analysis,https://ieeexplore.ieee.org/abstract/document/6356072
+2013,Do not blame users for misconfigurations,https://dl.acm.org/doi/abs/10.1145/2517349.2522727
+2013,Automated Diagnosis of Software Conﬁguration Errors,https://ieeexplore.ieee.org/abstract/document/6606577
+2013,Automated Diagnosis of Software Misconfigurations Based on Static Analysis,https://ieeexplore.ieee.org/abstract/document/6688897
+2013,A Differential Approach for Configuration Fault Localization in Cloud Environments,https://ieeexplore.ieee.org/abstract/document/6529291/
+2013,Confeagle: Automated Analysis of Configuration Vulnerabilities inWeb Applications,https://ieeexplore.ieee.org/abstract/document/6571709
+2014,Which Configuration Option Should I Change,https://dl.acm.org/doi/abs/10.1145/2568225.2568251
+2014,"EnCore: Exploiting system environment and correlation information for
+misconfiguration detection",https://dl.acm.org/doi/abs/10.1145/2541940.2541983
+2015,Practical and Accurate Pinpointing of Configuration Errors using Static Analysis,https://ieeexplore.ieee.org/abstract/document/7332463
+2015,ConfValley: A Systematic Configuration Validation Framework for Cloud Services,https://dl.acm.org/doi/abs/10.1145/2741948.2741963
+2016,Early Detection of Configuration Errors to Reduce Failure Damage,https://www.usenix.org/conference/osdi16/technical-sessions/presentation/xu
+2016,"Probabilistic Automated Language Learning for
+Configuration Files",https://link.springer.com/chapter/10.1007/978-3-319-41540-6_5
+2017,On Cross-stack Configuration Errors,https://ieeexplore.ieee.org/abstract/document/7985667/
+2017,Synthesizing Configuration File Specifications with Association Rule Learning,https://dl.acm.org/doi/abs/10.1145/3133888
+2017,Dexter: Faster Troubleshooting of Misconfiguration Cases Using System Logs,https://dl.acm.org/doi/abs/10.1145/3078468.3078484
+2018,"Understanding and Auto-Adjusting
+Performance-Sensitive Configurations",https://dl.acm.org/doi/abs/10.1145/3296957.3173206
+2018,Scout: An Experienced Guide to Find the Best Cloud Configuration,https://arxiv.org/abs/1803.01296
+2019,Sophia: Online Reconfiguration of Clustered NoSQL Databases for Time-Varying Workloads,https://www.usenix.org/conference/atc19/presentation/mahgoub
+2019,Configcrusher: White-box performance analysis for configurable systems.,https://link.springer.com/article/10.1007/s10515-020-00273-8
+2020,Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis,https://www.usenix.org/conference/nsdi20/presentation/mehta
+2020,PracExtractor: Extracting Configuration Good Practices from Manuals to Detect Server Misconfigurations,https://www.usenix.org/conference/atc20/presentation/xiang
+2020,Predicting Hadoop misconfigurations using machine learning,https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2790
+2020,Statically Inferring Performance Properties of Software Configurations,https://dl.acm.org/doi/abs/10.1145/3342195.3387520
+2021,Static Detection of Silent Misconfigurations with Deep Interaction Analysis,https://dl.acm.org/doi/abs/10.1145/3485517
+2021,ConfProf: White-Box Performance Profiling of Configuration Options,https://dl.acm.org/doi/abs/10.1145/3427921.3450255
+2021,Software Misconfiguration Troubleshooting Based on State Analysis,https://ieeexplore.ieee.org/abstract/document/9750456
+2022,AgileCtrl: A Self-Adaptive Framework for Configuration Tuning,https://dl.acm.org/doi/abs/10.1145/3540250.3549136
+2022,Multi-Intention-Aware Configuration Selection for Performance Tuning,https://dl.acm.org/doi/abs/10.1145/3510003.3510094
+2023,Real-time Diagnosis of Configuration Errors for Software of AI Server Infrastructure,https://ieeexplore.ieee.org/abstract/document/10098658
+2023,"Multi-Misconfiguration Diagnosis via Identifying
+Correlated Configuration Parameters",https://ieeexplore.ieee.org/abstract/document/10247646
+2024,LLM-Based Misconfiguration Detection for AWS Serverless Computing,https://arxiv.org/abs/2411.00642
