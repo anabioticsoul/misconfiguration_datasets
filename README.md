@@ -9,7 +9,7 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 
 ## Misconfiguration cases
 
-### targets and sources
+### Targets and sources
 - We selected MySQL, PHP, Apache httpd, Nginx, PostgreSQL, and Hadoop as our main targets. 
 - We select popular technical forums (i.e., StackOverflow and ServerFault), and official customer service channels (e.g., GitHub, Mailing lists, Offical online forums, etc.) as our data sources.
 
@@ -24,7 +24,7 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 | Others        | 17719  | 626           | 124               |
 | **Total**     | 168054 | 2313          | 823               |
 
-### collecting and analyzing
+### Collecting and analyzing
 1. We selected 2,313 solved and configuration-related cases from nearly 167.8 thousand total items.
 2. we manually inspected all 2,313 cases and sampled out 823 real-world misconfigurations cases.
 3. We categorized the root causes of misconfigurations into four groups, i.e., constraint violation, resource unavailability, component-dependency error, and misunderstanding of configuration effects.
@@ -49,14 +49,14 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 
 
 ## Misconfiguration troubleshooting papers
-### targets and sources
+### Targets and sources
 1. We conducted manual search on 13 top conferences and journals.
 2. We crawled the papers from the top venues from December 2003 to September 2024. The keyword set includes `configuration\*`, `misconfiguration\*`, `configure\*`, `configuration error\*`.
 and `configuration fault\*`.
 3. We verified papers that were relevant to our research objective, i.e., software misconfiguration detection and diagnosis.
 4. We searched for the papers cited by these papers or those cited these papers and identified whether they were relevant papers.
 
-| Acronym | Venues |
+| **Acronym** | **Venues** |
 |---|---|
 | ASE | International Conference on Automated Software Engineering |
 | ASPLOS | International Conference on Architectural Support for Programming Languages and Operating Systems |
@@ -70,11 +70,11 @@ and `configuration fault\*`.
 | TSE | IEEE Transactions on Software Engineering |
 | USENIX ATC | USENIX Annual Technical Conference |
 
-### content
+### Contents
 The list of papers for misconfiguration troubleshooting includes `YEAR, TITLE, LINK`.
 
 ## Reproduced misconfiguration scenarios
-### descriptions
+### Descriptions
 Each compressed file is named after the `case ID` and only contains one real-world misconfiguration scenario.
 
 ## Cite this work
