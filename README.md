@@ -78,7 +78,4 @@ The list of papers for misconfiguration troubleshooting includes `YEAR, TITLE, L
 Each compressed file is named after the `case ID` and only contains one real-world misconfiguration scenario.
 
 ## Cite this work
-```bib
-Yuhao Liu et al. "Rethinking Software Misconfigurations in the Real World: An Empirical Study and Literature Analysis"
-```
-
+We would appreciate it if you cite this paper utilizing the misconfiguration datasets in your research work: Yuhao Liu et al. "Rethinking Software Misconfigurations in the Real World: An Empirical Study and Literature Analysis".
