@@ -1,0 +1,112 @@
+﻿ID,software,Link,Description,Subtype,Year,Last Modified
+CA1,MySQL,http://serverfault.com/questions/490656/mysql-not-starting-error-usr-sbin-mysqld-unknown-option-query-cache-si,mysql not starting error usr sbin mysqld unknown option query cache si,Syntax error,2013,2023
+CA2,PHP,https://serverfault.com/questions/438943/php5-4-freebsd8-3nginx-cant-get-errors, I can't get any error into log file or screen.,Syntax error,2012,2012
+CA3,Others,https://serverfault.com/questions/580815/lighttpd-wrong-config-file-syntax,Lighttpd wrong config file syntax,Syntax error,2014,2014
+CA4,Others,https://serverfault.com/questions/520374/flask-lighttpd-with-fastcgi-cant-get-it-to-work,"flask, lighttpd with fastcgi can't get it to work",Syntax error,2013,2013
+CA5,Nginx,https://serverfault.com/questions/584774/golang-with-nginx-serving-static-files,Go(lang) with nginx - Serving Static Files,Syntax error,2014,2014
+CA6,Apache httpd,http://serverfault.com/questions/511615/why-does-my-rewritecond-match-even-though-the-pattern-clearly-doesnt-match,why does my rewritecond match even though the pattern clearly doesnt match,Syntax error,2013,2013
+CA7,Apache httpd,https://serverfault.com/questions/656240/correct-syntax-for-apache-if-expressions-with-mod-macro,Incorrect syntax for Apache If expressions with mod_macro,Syntax error,2015,2015
+CA8,Apache httpd,https://serverfault.com/questions/893016/i-need-the-apache-loadbalancer-configuration,"cannot attached ProxyPass within section, it gives error "">>> ProxyPass cannot occur within section""",Syntax error,2018,2018
+CA9,PostgreSQL,https://stackoverflow.com/questions/50049463/remote-postgresql-connection-with-pgadmin/50063167#50063167,Remote PostgreSQL connection with pgAdmin,Syntax error,2018,2021
+CA10,Hadoop,https://stackoverflow.com/questions/33076012/error-while-starting-namenode-and-datanode/33078097#33078097,error while starting namenode and datanode,Syntax error,2015,2017
+CA11,Others,https://stackoverflow.com/questions/49654143,"Spring Security 5 : There is no PasswordEncoder mapped for the id ""null""",Syntax error,2018,2023
+CA12,Others,https://stackoverflow.com/questions/22565200,Where HDFS stores data,Syntax error,2014,2017
+CA13,Nginx,https://stackoverflow.com/questions/11951816,Nginx Magento configuration index.php cyclic error,Syntax error,2012,2012
+CA14,MySQL,https://stackoverflow.com/questions/4562456,MySQL: setting time_zone in my.cnf options file,Syntax error,2010,2021
+CA15,Others,https://stackoverflow.com/questions/398607,How to enable configSource attribute for Custom Configuration Section in .NET?,Syntax error,2008,2011
+CA16,Others,https://stackoverflow.com/questions/761756,ASP.NET site map configuration error,Syntax error,2009,2012
+CA17,Apache httpd,https://stackoverflow.com/questions/46029105,Apache ProxyPass error,Syntax error,2017,2017
+CA18,Others,https://stackoverflow.com/questions/11462916,Grails log4j configuration - ERROR Method missing when configuring log4j: logger,Syntax error,2012,2012
+CA19,Others,https://stackoverflow.com/questions/443235,.NET 3.5 - Configuration system failed to initialize exception,Syntax error,2009,2023
+CA20,Others,https://stackoverflow.com/questions/661309,Configuration Error,Syntax error,2009,2012
+CA21,Others,https://stackoverflow.com/questions/21381943,How to configure Spring without persistence.xml?,Syntax error,2014,2021
+CA22,Nginx,https://serverfault.com/questions/397390/nginx-configuration-error-using-codex-example-is-this-a-typo-in-codex,NGINX Configuration Error using Codex Example: Is This a Typo in Codex?,Syntax error,2012,2012
+CA23,Nginx,https://serverfault.com/questions/357981/nginx-proxy-configuration-error-config-syntax,nginx proxy configuration error (config syntax),Syntax error,2012,2012
+CA24,Nginx,https://serverfault.com/questions/496371/nested-locations-nginx,How to use nested Nginx location blocks (prefixes vs. regex directives)?,Syntax error,2013,2023
+CA25,Nginx,https://stackoverflow.com/questions/34662979/nginx-redirect-with-proxy-pass,nginx redirect with proxy_pass,Syntax error,2016,2016
+CA26,Nginx,https://stackoverflow.com/questions/50482341/django-nginx-gunicorn-404-on-any-other-page-than-the-root,"django, nginx, gunicorn 404 on any other page than the root",Syntax error,2018,2018
+CA27,Nginx,https://stackoverflow.com/questions/47363455/running-more-than-two-web-applications-on-nginx,Running more than two web applications on nginx,Syntax error,2017,2017
+CA28,Others,https://stackoverflow.com/questions/5685344,Do I need to escape backslash in a config file?,Syntax error,2011,2017
+CA29,Apache httpd,https://stackoverflow.com/questions/4270921,mod_rewrite and double slash issue,Syntax error,2010,2022
+CA30,Apache httpd,https://stackoverflow.com/questions/15746609,PHP Syntax Error On Apache 2.4.3 and PHP 5.4.7 (foreach template syntax) [closed],Syntax error,2013,2013
+CA31,Others,https://stackoverflow.com/questions/14607920,"The ""&"" character breaks passwords that are stored in the web.config",Syntax error,2013,2017
+CA32,Others,https://stackoverflow.com/questions/64793839,Barman geo-redundancy configuration error,Syntax error,2020,2020
+CA33,Others,https://stackoverflow.com/questions/34355308,Error Loading JSON from configuration file using ConfigParser,Syntax error,2015,2015
+CA34,Others,https://stackoverflow.com/questions/15821436,Inno Setup parameter with quotes in [Run] section,Syntax error,2013,2020
+CA35,MySQL,https://stackoverflow.com/questions/19300501,mysql .my.cnf not reading credentials properly?,Syntax error,2013,2014
+CA36,Others,https://stackoverflow.com/questions/446269,Can I use SPACE as mapleader in VIM?,Syntax error,2009,2022
+CA37,Nginx,https://serverfault.com/questions/399973/nginx-500-error-instead-of-404,nginx 500 error instead of 404,Syntax error,2012,2018
+CA38,MySQL,http://serverfault.com/questions/313400/datetime-format-changed-between-mysql-5-0-and-5-1,datetime format changed between mysql 5 0 and 5 1,Syntax error,2011,2015
+CA39,Others,https://stackoverflow.com/questions/9021946,Add MIME mapping in web.config for IIS Express,Invalid name,2012,2017
+CA40,Apache httpd,https://serverfault.com/questions/813402/apache-syntax-error,Apache Syntax Error,Invalid name,2016,2016
+CA41,Others,https://stackoverflow.com/questions/51703109,"nginx the ""ssl"" directive is deprecated, use the ""listen ... ssl""",Invalid name,2018,2022
+CA42,Apache httpd,https://serverfault.com/questions/757779/i-cant-have-my-virtualhosts-working-properly-in-apache,can't have my virtualhosts working properly in Apache,Invalid name,2016,2016
+CA43,PostgreSQL,https://stackoverflow.com/questions/5915887/pg-bulkload-error-fatal-unrecognized-configuration-parameter-wal-level/5918274#5918274,pg_bulkload error: “FATAL: unrecognized configuration parameter ”wal_level“”,Invalid name,2011,2015
+CA44,PostgreSQL,https://stackoverflow.com/questions/40517942/unrecognized-configuration-parameter-autocommit-in-postgresql-nodejs/40546968#40546968,unrecognized configuration parameter “autocommit” in PostgreSQL NodeJS,Invalid name,2016,2016
+CA45,PostgreSQL,https://stackoverflow.com/questions/64148866/could-not-access-file-pglogical-while-trying-to-install-pglogical/64166755#64166755,Could not access file “pglogical” while trying to install pglogical,Invalid name,2020,2020
+CA46,Nginx,https://stackoverflow.com/questions/39412531,can't connect to mysql in playframework,Invalid name,2016,2016
+CA47,Apache httpd,https://serverfault.com/questions/146589/apache-virtual-host-issue,Apache Virtual Host Issue,Invalid name,2010,2010
+CA48,Apache httpd,https://serverfault.com/questions/650709/jenkins-under-apache-httpd-sometimes-switches-from-ssl-to-plain-http,Jenkins under Apache httpd sometimes switches from SSL to plain HTTP,Invalid name,2014,2014
+CA49,Apache httpd,https://serverfault.com/questions/650137/setting-up-suphp-with-puppetlabs-apache-on-centos-6-5,Cannot set up suPHP with puppetlabs/apache on centos 6.5,Invalid name,2014,2014
+CA50,Nginx,https://serverfault.com/questions/874765/how-to-set-up-nginx-in-ubuntu-with-virtualbox,How to set up nginx in ubuntu with virtualbox,Duplicate option,2017,2017
+CA51,Apache httpd,https://serverfault.com/questions/563182/apache-2-restart-fails,Apache 2 restart fails,Duplicate option,2013,2013
+CA52,Nginx,https://serverfault.com/questions/1148839,zlib.output_compression = On  interfering,Duplicate option,2023,2023
+CA53,PostgreSQL,https://stackoverflow.com/questions/10548447/rails-cannot-establish-a-postgres-connection/10548691#10548691,Rails cannot establish a Postgres connection,Duplicate option,2012,2012
+CA54,Hadoop,https://stackoverflow.com/questions/36517774/nodemanager-namenode-resourcemanager-datanode-secondarynamenode-not-running/36591990#36591990,NodeManager NameNode ResourceManager DataNode SecondaryNameNode not running,Duplicate option,2016,2021
+CA55,Nginx,https://stackoverflow.com/questions/17241554/unknown-error-nginx,Unknown error nginx,Duplicate option,2013,2016
+CA56,Nginx,https://stackoverflow.com/questions/6475472/duplicate-mime-type-text-html,"[warn]: duplicate MIME type ""text/html"" in /etc/nginx/nginx.conf:25",Duplicate option,2011,2018
+CA57,Nginx,https://stackoverflow.com/questions/44301644/symfony-nginx-configuration-error-fastcgi-sent-in-stderr-primary-script-unk,"*1 FastCGI sent in stderr: ""Primary script unknown"" while reading response header from upstream",Duplicate option,2017,2018
+CA58,Nginx,https://serverfault.com/questions/688409/nginx-1-8-configuration-problems,Nginx 1.8 Configuration Problems,Misplaced config.,2015,2015
+CA59,Apache httpd,https://serverfault.com/questions/533361/what-is-wrong-with-my-httpd-conf-file,What is wrong with my httpd.conf file?,Misplaced config.,2013,2013
+CA60,Nginx,https://serverfault.com/questions/677820/nginx-cache-error-conflicts-with-already-declared-size-0-in-etc-nginx-nginx-co,NGINX cache error: conflicts with already declared size 0 in /etc/nginx/nginx.conf,Misplaced config.,2015,2015
+CA61,Apache httpd,http://serverfault.com/questions/407875/how-to-diagnose-dns-virtual-domain-404s,how to diagnose dns virtual domain 404s,Misplaced config.,2012,2012
+CA62,Apache httpd,https://serverfault.com/questions/868118/httpd-overwrite-conf-file-directive-with-conf-d-directive,httpd overwrite conf file directive with conf.d directive,Misplaced config.,2017,2017
+CA63,PHP,https://serverfault.com/questions/915087/php-fpm-7-1-not-accepting-config-parameters-in-docker,PHP-FPM 7.1 not accepting config parameters in Docker,Misplaced config.,2018,2018
+CA64,Apache httpd,https://serverfault.com/questions/219436/500-error-after-creating-htpasswd-and-edit-htaccess,500 error after creating htpasswd and edit htaccess,Misplaced config.,2011,2018
+CA65,Apache httpd,https://serverfault.com/questions/652455/apache-404-returning-500-errors-request-exceeded-redirects,"trying to setup a site with static HTML with Apache, but get 500 rather than 404",Misplaced config.,2014,2014
+CA66,Apache httpd,https://serverfault.com/questions/597283/apache-not-responding-to-configuration-changes,Apache not responding to configuration changes,Misplaced config.,2014,2014
+CA67,Nginx,https://serverfault.com/questions/421301/nginx-worker-proccesses-directive-doesnt-work,"nginx: [emerg] ""worker_processes"" directive is not allowed here in /etc/nginx/sites-enabled/default:1 nginx",Misplaced config.,2012,2021
+CA68,Others,https://stackoverflow.com/questions/18598432,Custom App.config section causing configuration load error,Misplaced config.,2013,2013
+CA69,Others,https://stackoverflow.com/questions/782252,Avoid web.config inheritance in child web application using inheritInChildApplications,Misplaced config.,2009,2016
+CA70,Nginx,https://serverfault.com/questions/706694/use-nginx-as-reverse-proxy-for-multiple-servers,Use Nginx as Reverse Proxy for multiple servers,Misplaced config.,2015,2017
+CA71,Nginx,https://stackoverflow.com/questions/15208135/nginx-configuration-error,Nginx + configuration error,Misplaced config.,2013,2013
+CA72,PHP,https://serverfault.com/questions/742581/switching-from-mpm-worker-to-event-with-php-fpm,Switching from MPM Worker to Event with PHP-FPM,Misplaced config.,2015,2016
+CA73,MySQL,https://stackoverflow.com/questions/44298071,How to fix: mysql: [ERROR] Found option without preceding group in config file /etc/mysql/my.cnf?,Misplaced config.,2017,2022
+CA74,MySQL,http://serverfault.com/questions/512503/percona-and-mysql-audit,percona and mysql audit,Misplaced config.,2013,2013
+CA75,PostgreSQL,https://stackoverflow.com/questions/73108361/,"the earlier line win, move a  config",Misplaced config.,2022,2022
+CA76,PHP,https://stackoverflow.com/questions/23686505/php-post-max-size-vs-upload-max-filesize-what-is-the-difference,PHP post_max_size vs upload_max_filesize,Multi-config. error,2014,2023
+CA77,MySQL,https://www.percona.com/blog/2012/06/06/read_buffer_size-can-break-your-replication/,read_buffer_size can break your replication,Multi-config. error,2012,2012
+CA78,Apache httpd,http://serverfault.com/questions/367970/virtual-domain-redirection-working-only-partially-with-apache-2-2,virtual domain redirection working only partially with apache 2 2,Multi-config. error,2012,2012
+CA79,PHP,https://serverfault.com/questions/1060449/file-size-exceeded-the-maximum-size-permitted-phpmyadmin,file size exceeded the maximum size permitted phpmyadmin,Multi-config. error,2021,2021
+CA80,MySQL,https://stackoverflow.com/questions/74291717,missing the initial / character   ,Syntax error,2022,2022
+CA81,Nginx,https://stackoverflow.com/questions/72840115,reconfigure SSL,Duplicate option,2022,2022
+CA82,Nginx,https://stackoverflow.com/questions/72430595,wrong configuration: advanced nginx http to https redirect,Syntax error,2022,2022
+CA83,Others,https://stackoverflow.com/questions/71870967," without any error message, wrong name",Invalid name,2022,2022
+CA84,PHP,https://stackoverflow.com/questions/73458710,wrong syntax,Syntax error,2022,2022
+CA85,PHP,https://stackoverflow.com/questions/73105988,unclosed parentheses,Syntax error,2022,2022
+CA86,Apache httpd,https://stackoverflow.com/questions/73569742/,missing /,Syntax error,2022,2022
+CA87,Nginx,https://stackoverflow.com/questions/72675848,wrong position,Misplaced config.,2022,2022
+CA88,Nginx,https://stackoverflow.com/questions/72502807,configuration file name override,Misplaced config.,2022,2022
+CA89,Nginx,https://stackoverflow.com/questions/72093387,missing  /,Syntax error,2022,2022
+CA90,Nginx,https://stackoverflow.com/questions/71462799,duplicate =,Syntax error,2022,2022
+CA91,Nginx,https://stackoverflow.com/questions/71326580,typo  && func,Syntax error,2022,2022
+CA92,Nginx,https://stackoverflow.com/questions/71239175/,typo ,Syntax error,2022,2022
+CA93,Nginx,https://stackoverflow.com/questions/70095266,configuration it has a duplicate rule,Duplicate option,2022,2022
+CA94,PostgreSQL,https://stackoverflow.com/questions/72808886,typo for wrong name,Invalid name,2022,2022
+CA95,PostgreSQL,https://stackoverflow.com/questions/72193214/,"wrap your ENV[""POSTGRES_PASSWORD""] with <%= ... %>",Syntax error,2022,2022
+CA96,Hadoop,https://stackoverflow.com/questions/71313564/,In spark-submit the jars needed to be included before the script,Misplaced config.,2022,2022
+CA97,Nginx,https://serverfault.com/questions/1111604/,$backend2 wrong position,Misplaced config.,2022,2022
+CA98,Nginx,https://serverfault.com/questions/1103573,"nginx config is read top bottom with first match, add blog part upper in the site config",Misplaced config.,2022,2022
+CA99,Nginx,https://serverfault.com/questions/1102199/,missing /,Syntax error,2022,2022
+CA100,Nginx,https://stackoverflow.com/questions/71489437,file upload limit,Misplaced config.,2022,2023
+CA101,PHP,https://stackoverflow.com/questions/74715153/,wrong URL (phpinfo),Misplaced config.,2022,2022
+CA102,Nginx,https://serverfault.com/questions/1130664, cannot use both ipv6only=off and ipv6only=on,Duplicate option,2023,2023
+CA103,Nginx,https://stackoverflow.com/questions/75278778,There should not have a space,Syntax error,2023,2023
+CA104,MySQL,https://stackoverflow.com/questions/76757841,Quotes are not special characters,Syntax error,2023,2023
+CA105,Nginx,https://stackoverflow.com/questions/76945599,default configuration should be removed,Duplicate option,2023,2023
+CA106,Nginx,https://stackoverflow.com/questions/76732588,default configuration should be removed,Duplicate option,2023,2023
+CA107,Nginx,https://stackoverflow.com/questions/76747168,Nginx rate limiting reuse,Multi-config. error,2023,2023
+CA108,Nginx,https://stackoverflow.com/questions/76050367,proxy_pass set with https and proxy_ssl_server_name on;,Multi-config. error,2023,2023
+CA109,PostgreSQL,https://stackoverflow.com/questions/76340552,max_function_args is read-only,Syntax error,2023,2023
+CA110,PHP,https://stackoverflow.com/questions/76489505,default configuration should be removed,Duplicate option,2023,2023
+CA111,PostgreSQL,https://stackoverflow.com/questions/75386663,max connections,Multi-config. error,2023,2023

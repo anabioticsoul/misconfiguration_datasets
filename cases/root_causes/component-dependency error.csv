@@ -1,0 +1,120 @@
+﻿ID,Software,Link,Description,Subtype,Year,Last Modified
+CC1,Others,https://stackoverflow.com/questions/6174500,Log4j appenders for spring DependencyInjectionTestExecutionListener,Missing,2011,2011
+CC2,Nginx,https://serverfault.com/questions/932600/nginx-proxy-configuration-error-crit-pread,Nginx proxy configuration error: [crit] pread(),Missing,2018,2018
+CC3,Others,https://stackoverflow.com/questions/22743582,Error: Configuration with name 'default' not found in Android Studio,Missing,2014,2018
+CC4,MySQL,http://serverfault.com/questions/474116/mysql-error-1429-federation,mysql error 1429 federation,Incompatible,2013,2013
+CC5,MySQL,http://serverfault.com/questions/453729/periodic-mysql-lockup-when-wordpress-is-under-heavy-load,periodic mysql lockup when wordpress is under heavy load,Incompatible,2012,2012
+CC6,Nginx,https://serverfault.com/questions/410725/php-fpm-and-continuos-exited-on-signal-11,PHP-FPM and continuos “exited on signal 11”，PHP 5.3.14 has a serious bug,Incompatible,2012,2017
+CC7,Apache httpd,https://serverfault.com/questions/974404/cant-get-php-fpm-working-so-that-multiple-versions-of-php-can-be-used,Can't get PHP-FPM working so that multiple versions of php can be used,Incompatible,2019,2019
+CC8,PHP,https://serverfault.com/questions/586731/apache-fails-to-start-after-php-upgrade-on-centos-6-5-x64,Apache fails to start after PHP upgrade on CentOS 6.5 x64,Incompatible,2014,2014
+CC9,Apache httpd,https://serverfault.com/questions/772298/configuring-apache2-mpm-worker-with-php5,Configuring apache2-mpm-worker with php5,Incompatible,2016,2016
+CC10,Others,https://serverfault.com/questions/559634/on-aws-why-does-internal-dns-lookup-for-rds-fail-in-php-page,On AWS why does internal DNS lookup for RDS fail in PHP page?,Incompatible,2013,2013
+CC11,Others,https://issues.apache.org/jira/browse/HBASE-13200/,Improper configuration can leads to endless lease recovery during failover,Cross-comp. misconfig.,2015,2015
+CC12,Others,https://stackoverflow.com/questions/58113282,How to fix NullPointerException when getting current Hibernate Session,Incompatible,2019,2019
+CC13,Others,https://stackoverflow.com/questions/37936038,"Getting ""project"" nuget configuration is invalid error",Incompatible,2016,2020
+CC14,Others,https://stackoverflow.com/questions/2231031,Spring Web flow configuration error,Incompatible,2010,2010
+CC15,Others,https://stackoverflow.com/questions/266601,Spring configuration error,Incompatible,2008,2010
+CC16,Others,https://stackoverflow.com/questions/2006402,Compiling CUDA examples gives build error,Incompatible,2010,2016
+CC17,Others,https://stackoverflow.com/questions/39673737,Spring Security : configuration error,Incompatible,2016,2016
+CC18,PostgreSQL,https://stackoverflow.com/questions/34073223/django-app-with-postgres-backend-throwing-error-in-new-set-up-azure-vm/34083019#34083019,Django app with postgres backend throwing error in new set up (Azure VM),Incompatible,2015,2015
+CC19,PostgreSQL,https://stackoverflow.com/questions/34023813/symfony-2-7-cacheclear-command-checks-every-database-connection/34024275#34024275,Symfony 2.7 cache:clear command checks every database connection,Incompatible,2015,2023
+CC20,Hadoop,https://stackoverflow.com/questions/33852044/why-can-i-not-read-from-the-aws-s3-in-spark-application-anymore/35653666#35653666,Why can I not read from the AWS S3 in Spark application anymore?,Incompatible,2015,2016
+CC21,Hadoop,https://stackoverflow.com/questions/19043970/cannot-initialize-cluster-please-check-your-configuration-for-mapreduce-framewo,Cannot initialize Cluster. Please check your configuration for mapreduce.framework.name and the correspond server addresses-submiting job2remoteClustr,Incompatible,2013,2019
+CC22,Hadoop,https://stackoverflow.com/questions/16498711/oozie-war-creation-unsupported-hadoop-version-supported-versions-0-20-1-0-20/16499400#16499400,"Oozie war creation - Unsupported Hadoop version supported versions: 0.20.1, 0.20.2, 0.20.104, 0.20.200, 0.23.x and 2.x",Incompatible,2013,2013
+CC23,Hadoop,https://stackoverflow.com/questions/36372009/jmeter-hbase-scan-sampler-fails-with-classnotfoundexception-exception/36377717#36377717,JMeter Hbase scan sampler fails with ClassNotFoundException exception,Incompatible,2016,2016
+CC24,Others,https://stackoverflow.com/questions/49990933,Configuration on demand is not supported by the current version of the Android Gradle plugin,Incompatible,2018,2019
+CC25,Apache httpd,https://serverfault.com/questions/805480/cannot-run-apache-2-4-with-libapache2-mod-php5,Cannot run Apache 2.4 with libapache2-mod-php5,Incompatible,2016,2016
+CC26,Nginx,https://serverfault.com/questions/986001/installing-letsencrypt-ssl-on-amazon-linux-with-nginx-php-fpm-gives-the-conne,Installing LetsEncrypt SSL on Amazon Linux with Nginx + PHP-FPM gives “The connection was reset” error,Incompatible,2019,2019
+CC27,PHP,https://serverfault.com/questions/346472/missing-dependency-issue-when-trying-to-install-apc-extension-for-php,Missing Dependency issue when trying to install apc extension for php,Incompatible,2012,2012
+CC28,Nginx,https://serverfault.com/questions/519438/php-fpm-stops-responding-and-dies,PHP-FPM stops responding and dies,Incompatible,2013,2014
+CC29,Apache httpd,https://serverfault.com/questions/383946/apache-crashes-when-php-mysql-dll-is-loaded,apache crashes when php_mysql.dll is loaded,Incompatible,2012,2012
+CC30,PHP,https://serverfault.com/questions/477862/error-message-with-phpmyadmin-when-starting-up-apache,Error message with phpmyadmin when starting up apache,Incompatible,2013,2013
+CC31,Others,https://serverfault.com/questions/175990/lighttpd-virtual-host-error,Lighttpd Virtual Host Error,Incompatible,2010,2011
+CC32,Others,https://serverfault.com/questions/549381/puppet-installs-too-many-dependencies,Puppet installs too many dependencies,Missing,2013,2013
+CC33,MySQL,https://stackoverflow.com/questions/54094991/error-in-sql-connector-configuration-when-connecting-using-ballerina-mysql-clien,Failed to initialize pool， Initial client character set can be forced via the 'characterEncoding' property,Incompatible,2019,2019
+CC34,Nginx,https://stackoverflow.com/questions/61701266/500-error-on-moving-project-to-another-server,500 error on moving project to another server,Incompatible,2020,2020
+CC35,Nginx,https://stackoverflow.com/questions/53642626/nginx-mywebsite-intweb-net-redirected-you-too-many-times-err-too-many-redirect,"nginx: mywebsite.intweb.net redirected you too many times. ERR_TOO_MANY_REDIRECTS,",Incompatible,2018,2018
+CC36,PostgreSQL,https://stackoverflow.com/questions/29445198/gitlab-will-not-create-postgres-instance-on-alternative-port/29445984#29445984,Gitlab will not create Postgres instance on alternative port,Incompatible,2015,2015
+CC37,Hadoop,https://stackoverflow.com/questions/29348549/unable-to-add-a-new-service-with-cloudera-manager-within-cloudera-quickstart-vm/29521910#29521910,Unable to add a new service with Cloudera Manager within Cloudera Quickstart VM 5.3.0,Missing,2015,2015
+CC38,MySQL,https://stackoverflow.com/questions/54094991,Error in sql connector configuration when connecting using Ballerina MYSQL Client,Incompatible,2019,2019
+CC39,Apache httpd,https://serverfault.com/questions/370499/need-apache-configuration-fixed,Need Apache configuration fixed,Cross-comp. misconfig.,2012,2012
+CC40,MySQL,http://serverfault.com/questions/446843/error-2003-hy000-cant-connect-to-mysql-server-on-111,error 2003 hy000 cant connect to mysql server on 111,Cross-comp. misconfig.,2012,2019
+CC41,Apache httpd,https://serverfault.com/questions/178929/php-path-info-issues,Undefined index: PATH_INFO,Cross-comp. misconfig.,2010,2011
+CC42,Apache httpd,https://serverfault.com/questions/790120/nginx-as-a-proxy-for-apache-server-running-wordpress,The internal links of the website all give 301 redirects to localhost,Cross-comp. misconfig.,2016,2016
+CC43,Apache httpd,https://serverfault.com/questions/554102/cant-not-access-apache-server-status-page-when-i-add-configuration-for-load-bal,Can't not access apache server-status page when i add configuration for load balancing,Cross-comp. misconfig.,2013,2013
+CC44,Apache httpd,https://serverfault.com/questions/791090/separate-php-error-logs-for-each-apache-vhosts,separate php error logs for each Apache vhosts,Cross-comp. misconfig.,2016,2016
+CC45,Apache httpd,https://serverfault.com/questions/230253/mixing-subversion-svnparentpath-and-per-repository-configurations,Mixing Subversion “SVNParentPath” and per-repository configurations,Cross-comp. misconfig.,2011,2012
+CC46,Apache httpd,https://serverfault.com/questions/891438/401-unauthorized-error-when-using-apache-2-4,401 Unauthorized error when using Apache 2.4,Cross-comp. misconfig.,2018,2019
+CC47,Apache httpd,https://serverfault.com/questions/688318/htaccess-redirect-loop-only-on-one-of-two-servers,htaccess redirect loop only on one of two servers,Cross-comp. misconfig.,2015,2015
+CC48,Apache httpd,https://serverfault.com/questions/577616/using-https-between-apache-loadbalancer-and-backends,The proxy server could not handle the request GET /test/test.jsp.,Cross-comp. misconfig.,2014,2024
+CC49,PostgreSQL,https://stackoverflow.com/questions/35938531/how-to-integrate-pgbouncer-1-4-with-postgresql-9-0-database/35939766#35939766,How to integrate pgbouncer-1.4 with PostgreSQL -9.0 database,Cross-comp. misconfig.,2016,2016
+CC50,Hadoop,https://stackoverflow.com/questions/41535708/prevent-ambari-agent-overwriting-repo-files/41578484#41578484,Prevent Ambari agent overwriting repo files,Cross-comp. misconfig.,2017,2017
+CC51,Hadoop,https://stackoverflow.com/questions/41756775/unable-to-configure-orc-properties-in-spark/41766865#41766865,Unable to configure ORC properties in Spark,Cross-comp. misconfig.,2017,2017
+CC52,Hadoop,https://stackoverflow.com/questions/65880196/spark-structured-streaming-this-query-does-not-support-recovering-from-checkpo/65880651#65880651,Spark Structured Streaming - This query does not support recovering from checkpoint location,Cross-comp. misconfig.,2021,2021
+CC53,PHP,https://serverfault.com/questions/550609/dll-in-php-the-specified-module-could-not-be-found,dll in php “the specified module could not be found”,Missing,2013,2016
+CC54,PHP,https://serverfault.com/questions/936682/php-fpm-fails-after-x-requests,php-fpm fails after X requests,Missing,2018,2018
+CC55,Apache httpd,https://serverfault.com/questions/826830/website-stuck-in-redirect-loop-after-using-behind-cloudflare,website stuck in redirect loop after using behind cloudflare,Missing,2017,2017
+CC56,Apache httpd,https://serverfault.com/questions/770666/apache-returns-empty-response-and-must-restart,Apache returns empty response and must restart [closed],Missing,2016,2019
+CC57,PHP,https://serverfault.com/questions/57377/installing-imagick-php-extension-on-ubuntu,Installing imagick PHP extension on Ubuntu,Missing,2009,2009
+CC58,PHP,https://serverfault.com/questions/420008/php-5-4-on-centos-5-gd-not-working,PHP 5.4 on CentOS 5 - GD Not Working,Missing,2012,2012
+CC59,Nginx,https://serverfault.com/questions/979612/yet-another-pdo-could-not-find-driver-issue,Yet another PDO could not find driver issue,Missing,2019,2019
+CC60,PHP,https://serverfault.com/questions/495477/pdo-installation-not-working,PDO installation not working? [closed],Missing,2013,2013
+CC61,Apache httpd,https://serverfault.com/questions/834921/apache-2-mpm-itk-and-mpm-prefork-modules-together,Apache 2 mpm-itk and mpm-prefork modules together,Missing,2017,2017
+CC62,Apache httpd,https://serverfault.com/questions/365621/multiple-error-log-locations-for-apache,Cannot specify Multiple error_log locations for Apache,Missing,2012,2012
+CC63,Apache httpd,https://serverfault.com/questions/385414/apache-httpd-send-error-logs-to-syslog-and-local-disk-without-touching-etc-sy,Cannot make Apache errors logs written to the local disk and sent to syslog,Missing,2012,2014
+CC64,Apache httpd,https://serverfault.com/questions/315556/multiple-separate-apache-daemons-on-same-machine,Cannot have a separate apache daemon to run the reverse proxy,Missing,2011,2011
+CC65,Apache httpd,https://serverfault.com/questions/733910/how-do-i-load-mod-version-only-if-it-isnt-built-in-to-apache,Cannot load mod_version only if it isn't built in to apache,Missing,2015,2015
+CC66,Apache httpd,https://serverfault.com/questions/807850/prestashop-with-php-fpm-gives-uncomplete-header-error,astCGI: incomplete headers (0 bytes) received from server,Missing,2016,2016
+CC67,Apache httpd,https://serverfault.com/questions/515417/error-start-apache-php-value,Error Start Apache “php value”,Missing,2013,2019
+CC68,Apache httpd,https://serverfault.com/questions/785660/apache-up-in-flames-ah00025-how-to-fix,Apache configuration error (AH00025): couldn't check user,Missing,2016,2023
+CC69,Others,https://stackoverflow.com/questions/12528238,Configuration error: System.Web.Helpers,Missing,2012,2018
+CC70,Others,https://stackoverflow.com/questions/22063533,intellij - spring is not being recognized (Unmapped Spring configuration),Missing,2014,2021
+CC71,Nginx,https://stackoverflow.com/questions/24666457/nginx-webdav-could-not-open-collection,nginx webdav could not open collection,Missing,2014,2015
+CC72,Nginx,https://stackoverflow.com/questions/36011581/nginx-unknown-directive-proxy-pass,"nginx: [emerg] unknown directive ""proxy_pass""",Missing,2016,2016
+CC73,Others,https://stackoverflow.com/questions/1504163,Configuration problem: Unable to locate Spring NamespaceHandler for XML schema namespace,Missing,2009,2022
+CC74,Others,https://stackoverflow.com/questions/40622751,Hibernate validator doesn't work,Missing,2016,2017
+CC75,PostgreSQL,https://stackoverflow.com/questions/63707414/unable-to-connect-app-to-postgres-server-using-yaml-files/63708510#63708510,Unable to connect app to postgres server using yaml files,Missing,2020,2020
+CC76,Others,https://stackoverflow.com/questions/74769168/,conflicting with the dependencies,Incompatible,2022,2022
+CC77,Others,https://stackoverflow.com/questions/74655996,add spring-boot-starter-oauth2-resource-server dependency in your project,Missing,2022,2022
+CC78,MySQL,https://stackoverflow.com/questions/73927708,related to the MySQL version with others,Incompatible,2022,2022
+CC79,Others,https://stackoverflow.com/questions/73349568/,wrong version,Incompatible,2022,2022
+CC80,Others,https://stackoverflow.com/questions/72984330,add one dependency,Missing,2022,2022
+CC81,Others,https://stackoverflow.com/questions/72959168/,the parameter MODE worked for OP， have to change configuration,Incompatible,2022,2022
+CC82,MySQL,https://stackoverflow.com/questions/72615960/,software version is outdated,Incompatible,2022,2022
+CC83,MySQL,https://stackoverflow.com/questions/72323823,missing one of the MySQL development package,Missing,2022,2022
+CC84,Others,https://stackoverflow.com/questions/72172454,proper versions of jdk and spring. It is a common pitfall for people to jump into the latest versions,Incompatible,2022,2022
+CC85,Nginx,https://stackoverflow.com/questions/72147711,different directories of components should be same,Cross-comp. misconfig.,2022,2022
+CC86,Others,https://stackoverflow.com/questions/71159585,add and remove some dependencies,Incompatible,2022,2022
+CC87,MySQL,https://stackoverflow.com/questions/70595395,related to the version of the jdbc driver.,Incompatible,2022,2022
+CC88,PHP,https://stackoverflow.com/questions/73984830,change php version 7 to 8,Incompatible,2022,2024
+CC89,PHP,https://stackoverflow.com/questions/73421405,wrong PHP version,Incompatible,2022,2022
+CC90,PHP,https://stackoverflow.com/questions/72684090/,update PHP version,Incompatible,2022,2023
+CC91,Nginx,https://stackoverflow.com/questions/72522017/,update Nginx version,Incompatible,2022,2022
+CC92,PHP,https://stackoverflow.com/questions/72317738,update PHP version,Incompatible,2022,2022
+CC93,PHP,https://stackoverflow.com/questions/71241718,missing librariy,Missing,2022,2022
+CC94,PHP,https://stackoverflow.com/questions/70569313,version mismatch,Incompatible,2022,2022
+CC95,Nginx,https://stackoverflow.com/questions/73036677,downgrading Nginx to 1.18.0,Incompatible,2022,2022
+CC96,Nginx,https://stackoverflow.com/questions/72840115,"using Nginx as a reverse proxy, after making sure that the port is open on your container, just let Nginx handle the SSL and don't configure it again",Cross-comp. misconfig.,2022,2022
+CC97,Nginx,https://stackoverflow.com/questions/72937572,version did not match,Incompatible,2022,2022
+CC98,Others,https://stackoverflow.com/questions/74201770,"version did not match, java 18",Incompatible,2022,2022
+CC99,Hadoop,https://stackoverflow.com/questions/73360680,missing component,Missing,2022,2023
+CC100,Hadoop,https://stackoverflow.com/questions/70695101/,update spark,Incompatible,2022,2022
+CC101,Nginx,https://serverfault.com/questions/1114122/,"http/1.0 per default, and curl uses http/1.1",Incompatible,2022,2022
+CC102,Others,https://serverfault.com/questions/549381/puppet-installs-too-many-dependencies,Puppet installs too many dependencies,Missing,2013,2013
+CC103,Apache httpd,https://stackoverflow.com/questions/76672484,duplicated my PHP configuration in the httpd.conf file and in httpd-php.conf,Cross-comp. misconfig.,2023,2023
+CC104,Hadoop,https://stackoverflow.com/questions/77605408,do not have component as dependency,Missing,2023,2023
+CC105,Hadoop,https://stackoverflow.com/questions/77155400,hadoop dose not support java 17,Incompatible,2023,2023
+CC106,Hadoop,https://stackoverflow.com/questions/76771284,hadoop dose not support java 17,Incompatible,2023,2023
+CC107,Hadoop,https://stackoverflow.com/questions/76100454,miss slf4j-simple jar ,Missing,2023,2023
+CC108,MySQL,https://stackoverflow.com/questions/77482386,module is typically used in Unix-like systems,Incompatible,2023,2023
+CC109,MySQL,https://stackoverflow.com/questions/77485523,in MAC multiple relays that encrypt data and generate temporary IP addresses which mess things up,Incompatible,2023,2024
+CC110,Others,https://stackoverflow.com/questions/77370858,miss components,Missing,2023,2024
+CC111,Others,https://stackoverflow.com/questions/77076235,miss components,Missing,2023,2023
+CC112,Others,https://stackoverflow.com/questions/77022598,at least Java 17.,Incompatible,2023,2023
+CC113,Others,https://stackoverflow.com/questions/76947614,miss components,Missing,2023,2023
+CC114,MySQL,https://stackoverflow.com/questions/76735281,docker maps a wrong port to mysql,Cross-comp. misconfig.,2023,2023
+CC115,MySQL,https://stackoverflow.com/questions/75561162,MYSQL_USER=root for your database environment and can create conflicts for the root user,Cross-comp. misconfig.,2023,2023
+CC116,Nginx,https://stackoverflow.com/questions/75412175/,proxy_pass  http://172.17.0.1:49321/foobar;    with the path of other component,Cross-comp. misconfig.,2023,2023
+CC117,PostgreSQL,https://stackoverflow.com/questions/77488883/,Cyrillic letters cannot be converted to that encoding.,Cross-comp. misconfig.,2023,2023
+CC118,Others,https://stackoverflow.com/questions/76286206,miss components,Missing,2023,2023
+CC119,MYSQL,https://stackoverflow.com/questions/76820020/,set autocommit = 1 to align the MySQL value with PDO's value,Cross-comp. misconfig.,2023,2023

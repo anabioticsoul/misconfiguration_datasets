@@ -1,0 +1,241 @@
+﻿ID,Software,Link,Description,Subtype,Year,Last Modified
+CB1,Apache httpd,https://serverfault.com/questions/667638/apache-fails-after-configuration-of-2-virtual-hosts,Apache fails after configuration of 2 virtual hosts,Resource competing,2015,2015
+CB2,Apache httpd,https://serverfault.com/questions/481346/why-does-apache-fail-to-start-and-only-say-configuration-failed-in-error-log,No space left on device: Couldn't create accept lock,Resource competing,2013,2020
+CB3,PostgreSQL,https://stackoverflow.com/questions/13719359/ruby-on-rails-error-when-running-rake-dbmigrate/13719484#13719484,Ruby On Rails Error when running rake db:migrate,Resource competing,2012,2012
+CB4,Apache httpd,https://serverfault.com/questions/128809/apache-error-with-suexec-only,Apache error with suEXEC only,Unauthorized access,2010,2010
+CB5,Apache httpd,https://serverfault.com/questions/234787/why-apache-throws-403-on-index-file-after-install,Why apache throws 403 on index file after install?,Unauthorized access,2011,2011
+CB6,Apache httpd,https://serverfault.com/questions/294725/php-serving-blank-pages-to-1-of-users,PHP serving blank pages to <1% of users,Unauthorized access,2011,2011
+CB7,Apache httpd,https://serverfault.com/questions/296997/completely-random-403-errors-despite-explicit-allow-from-all,Completely random 403 errors despite explicit Allow from all,Unauthorized access,2011,2011
+CB8,Apache httpd,https://serverfault.com/questions/325889/access-denied-for-php-files-only,Access Denied for PHP Files Only,Unauthorized access,2011,2017
+CB9,Apache httpd,https://serverfault.com/questions/579661/apache2-randomly-stop-working-error-403,"Apache2 randomly stop working, error 403",Unauthorized access,2014,2014
+CB10,Apache httpd,https://serverfault.com/questions/599723/apache-2-4-with-php-5-5-ldap-in-php-not-working,"Apache 2.4 with PHP 5.5, LDAP in PHP not working",Unauthorized access,2014,2014
+CB11,Apache httpd,https://serverfault.com/questions/936134/apache-local-virtualhosts-not-working-502-error,Apache Local virtualhosts not working (502 error),Unauthorized access,2018,2018
+CB12,Apache httpd,https://serverfault.com/questions/972149/django-on-apache-gives-500-error-error-log-has-client-denied-by-server-configu,"Django on Apache gives 500 error, error log has “client denied by server configuration”",Unauthorized access,2019,2022
+CB13,Apache httpd,http://serverfault.com/questions/438726/apache-permission-denied-on-fedora-17-ec2-instance,apache permission denied on fedora 17 ec2 instance,Unauthorized access,2012,2012
+CB14,Apache httpd,http://serverfault.com/questions/89399/https-timeout-while-http-works,https timeout while http works,Unauthorized access,2009,2014
+CB15,Apache httpd,https://serverfault.com/questions/128809/apache-error-with-suexec-only,Apache error with suEXEC only,Unauthorized access,2010,2010
+CB16,Apache httpd,https://serverfault.com/questions/229875/install-mod-perl2-on-apache-2-2-14-ubuntu10-04,"module perl_module is already loaded, skipping",Unauthorized access,2011,2013
+CB17,Apache httpd,https://serverfault.com/questions/491399/can-i-suppress-apache2-error-messages-about-clients-denied-by-server-configurati,apache error log is filling up with [error] [client 108.62.178.124] client denied by server configuration,Unauthorized access,2013,2013
+CB18,Apache httpd,https://serverfault.com/questions/587418/apache-2-4-403-http-status-code,Apache 2.4 - 403 HTTP status code,Unauthorized access,2014,2014
+CB19,Apache httpd,https://serverfault.com/questions/814829/apache-ssl-invalid-certificate-chain-with-https-www,Apache SSL invalid certificate chain with “https://www”,Unauthorized access,2016,2016
+CB20,MySQL,http://stackoverflow.com/questions/7928675/mysql-i-cannot-login-as-root-after-upgrading-to-5-5,mysql i cannot login as root after upgrading to 5 5,Unauthorized access,2011,2020
+CB21,MySQL,http://serverfault.com/questions/256254/mysql-server-doesnt-startup,mysql server doesnt startup,Unauthorized access,2011,2014
+CB22,MySQL,http://stackoverflow.com/questions/19117487/i-cant-start-mysql-on-linux-error-mysqld-safe,i cant start mysql on linux error mysqld safe,Unauthorized access,2013,2018
+CB23,MySQL,http://serverfault.com/questions/258709/attempted-to-change-database-drive-resulted-in-cant-connect-to-local-mysql-ser,attempted to change database drive resulted in cant connect to local mysql ser,Unauthorized access,2011,2013
+CB24,Nginx,https://serverfault.com/questions/170192/nginx-php-fpm-permission-denied-error-13-in-nginx-log-configuration-mista,"nginx + PHP-FPM = ""permission denied"" error 13 in nginx log; configuration mistake?",Unauthorized access,2010,2016
+CB25,Nginx,https://serverfault.com/questions/442215/error-404-when-using-limit-rate-in-nginx,Error 404 when using $limit_rate in nginx,Unauthorized access,2012,2012
+CB26,Nginx,https://serverfault.com/questions/525283/centos-vsftpd-nginx-php-fpm-permission-denied-500-internal-server-error,Centos / vsFTPD / Nginx / php-fpm - Permission denied (500 Internal Server Error),Unauthorized access,2013,2014
+CB27,Nginx,https://serverfault.com/questions/601063/nginx-php-fpm-on-centos-6-5-gives-me-502-bad-gateway-fpm-error-unable-to-rea,Nginx + PHP-FPM on Centos 6.5 gives me 502 Bad Gateway (fpm error: unable to read what child say: Bad file descriptor),Unauthorized access,2014,2014
+CB28,Nginx,https://serverfault.com/questions/616788/nginx-403-forbidden-on-some-files-extensions,Nginx: 403 Forbidden on some files extensions,Unauthorized access,2014,2014
+CB29,Nginx,https://serverfault.com/questions/666553/os-x-10-10-localhost-environment-using-nginx-mysql-and-php-via-homebrew,"OS X 10.10 Localhost Environment using nginx, mysql, and php via Homebrew",Unauthorized access,2015,2015
+CB30,Nginx,https://serverfault.com/questions/688461/no-write-permission-for-wordpress-under-nginx-in-centos-7,No write permission for Wordpress under Nginx in CentOS 7,Unauthorized access,2015,2015
+CB31,Nginx,https://serverfault.com/questions/710404/nginx-configuration504-gateway-time-out-error,"*798 upstream timed out (110: Connection timed out) while connecting to upstream, client: 10.100.88.210",Unauthorized access,2015,2021
+CB32,Nginx,https://serverfault.com/questions/735348/php-fpm-corrupts-my-socket-permission-on-startup,Php-fpm corrupts my socket permission on startup,Unauthorized access,2015,2015
+CB33,Nginx,https://serverfault.com/questions/768818/centos-7-nginx-13-permission-denied-while-loading-font-file-from-css,CentOs 7 Nginx (13: Permission denied) while loading font file from css,Unauthorized access,2016,2016
+CB34,Nginx,https://serverfault.com/questions/779450/phpmyadmin-on-centos-7-with-nginx-returns-blank-page,phpMyAdmin on CentOS 7 with NGINX returns blank page,Unauthorized access,2016,2016
+CB35,Nginx,https://serverfault.com/questions/814433/symfony-centos-nginx-php-fpm-cache-error,"Symfony, CentOS, NGINX, php-fpm cache error",Unauthorized access,2016,2016
+CB36,Nginx,https://serverfault.com/questions/963306/how-do-i-get-nginx-to-work-with-subdirectories-nginx-lets-encrypt-basic-aut,"How do I get Nginx to work with subdirectories? [Nginx, Let's Encrypt, basic auth]",Unauthorized access,2019,2019
+CB37,Nginx,https://serverfault.com/questions/984534/php-fpm-couldnt-find-script-until-i-moved-in-a-specific-directory,php-fpm couldn't find script until I moved in a specific directory,Unauthorized access,2019,2022
+CB38,Nginx,https://stackoverflow.com/questions/20182329,Nginx is throwing an 403 Forbidden on Static Files,Unauthorized access,2013,2022
+CB39,Nginx,https://stackoverflow.com/questions/27250982/setup-codiad-with-nginx-installation-error,Setup Codiad with Nginx Installation Error,Unauthorized access,2014,2015
+CB40,Nginx,https://stackoverflow.com/questions/34258894/nginx-still-try-to-open-default-error-log-file-even-though-i-set-nginx-config-fi,Nginx still try to open default error log file even though I set nginx config file while reloading,Unauthorized access,2015,2022
+CB41,Nginx,https://stackoverflow.com/questions/64996430/my-https-ssl-tls-nginx-configuration-give-me-timeout,My HTTPS (SSL/TLS) nginx configuration give me timeout,Unauthorized access,2020,2020
+CB42,Nginx,https://stackoverflow.com/questions/6795350/nginx-403-forbidden-for-all-files,Nginx 403 forbidden for all files,Unauthorized access,2011,2024
+CB43,Nginx,https://stackoverflow.com/questions/63178715/sec-error-adding-cert-error-adding-certificate-to-database,SEC_ERROR_ADDING_CERT: Error adding certificate to database,Unauthorized access,2020,2021
+CB44,Others,https://serverfault.com/questions/315110/installing-software-on-a-shared-linux-godaddy-server,Installing software on a shared linux godaddy server,Unauthorized access,2011,2011
+CB45,Others,https://serverfault.com/questions/665228/zabbix-cannot-connect-to-a-postgresql-database,Zabbix cannot connect to a PostgreSQL database,Unauthorized access,2015,2018
+CB46,PHP,https://serverfault.com/questions/1044865/php-fpm-detected-unsafe-path-transition-error-message-how,php-fpm Detected unsafe path transition error message. How?,Unauthorized access,2020,2020
+CB47,PHP,https://serverfault.com/questions/276096/drupal-php-installation-does-not-support-mysql,Drupal PHP installation does not support MySQL,Unauthorized access,2011,2011
+CB48,PHP,https://serverfault.com/questions/287788/enabling-apc-causes-internal-server-error,Enabling APC causes internal server error,Unauthorized access,2011,2015
+CB49,PHP,https://serverfault.com/questions/30967/lighttpd-cannot-create-php-fastcgi-socket,Lighttpd cannot create php-fastcgi.socket,Unauthorized access,2009,2021
+CB50,PHP,https://serverfault.com/questions/415430/directadmin-subdomains-documentroot-in-other-users-directory-tree-vs-running,DirectAdmin - subdomain's DocumentRoot in other user's directory tree vs running PHP [closed],Unauthorized access,2012,2015
+CB51,PHP,https://serverfault.com/questions/61461/iis6-php-upload,IIS6 + PHP upload,Unauthorized access,2009,2009
+CB52,PHP,https://serverfault.com/questions/806235/permission-denied-creating-folder-after-setting-parent-folder-as-www-data-user,Permission denied creating folder after setting parent folder as www-data user,Unauthorized access,2016,2016
+CB53,PHP,https://serverfault.com/questions/961736/php-move-uploaded-file-fail,PHP move_uploaded_file fail failed to open stream,Unauthorized access,2019,2019
+CB54,PostgreSQL,https://serverfault.com/questions/979282/errors-when-attempting-to-connect-to-postgresql-9-6-using-ssl-wildcard-server-ce/979565#979565,Errors when attempting to connect to PostgreSQL 9.6 using SSL wildcard server certificate and no client certificates,Unauthorized access,2019,2019
+CB55,Apache httpd,https://serverfault.com/questions/567960/tortoisesvn-repository-browser-kills-the-apache-process,TortoiseSVN repository browser kills the apache process,Hardware limitation,2014,2014
+CB56,Apache httpd,https://serverfault.com/questions/563123/error-502-random-ssl-library-error-336151568-error14094410,Error 502 - Random SSL Library Error: 336151568 error:14094410,Hardware limitation,2013,2014
+CB57,Apache httpd,https://serverfault.com/questions/403369/getting-internal-server-error-after-updating-server-config-via-whm,Getting internal server error after updating server config via WHM,Hardware limitation,2012,2013
+CB58,Apache httpd,https://serverfault.com/questions/1039397/apache-httpd-is-restarting-once-a-day-with-error-ah00428-parent-child-process,apache httpd is restarting once a day with error AH00428: Parent: child process xxxxx exited with status 3221225477 — Restarting,Hardware limitation,2020,2020
+CB59,Apache httpd,https://serverfault.com/questions/704569/memory-leak-on-apache,Memory leak on Apache,Hardware limitation,2015,2017
+CB60,Nginx,https://serverfault.com/questions/211528/using-nginx-wordpress-with-all-wordpress-files-in-a-subdirectory,Using nginx + wordpress with all wordpress files in a subdirectory,Identifier error,2010,2021
+CB61,Apache httpd,https://serverfault.com/questions/418547/apache-mod-fastcgi,Apache mod_fastcgi,Identifier error,2012,2012
+CB62,Apache httpd,https://serverfault.com/questions/176771/apache2-virtual-host-in-a-vm-trouble-accessing-from-host-machine,"Apache2 virtual host in a VM, trouble accessing from host machine",Identifier error,2010,2010
+CB63,Apache httpd,https://serverfault.com/questions/393159/wildcard-dns-non-existent-subdomains-point-to-main-website,"Wildcard dns, non-existent subdomains point to main website",Identifier error,2012,2012
+CB64,Apache httpd,https://serverfault.com/questions/654805/apache-limit-directive-does-not-allow-to-see-localhost-project-over-lan,Apache LIMIT directive does not allow to see localhost project over LAN,Identifier error,2014,2014
+CB65,Apache httpd,https://serverfault.com/questions/723200/increasing-fcgidmaxprocesses-does-not-help-to-solve-mod-fcgid-cant-apply-proc,Increasing FcgidMaxProcesses does not help to solve “mod_fcgid: can't apply process slot” error,Identifier error,2015,2016
+CB66,Apache httpd,https://stackoverflow.com/questions/1055045,Apache on Windows and Fiddler,Identifier error,2009,2014
+CB67,Apache httpd,https://serverfault.com/questions/594020/using-proxypassmatch-for-fastcgi-results-in-connection-refused-on-port-9000,"Using ProxyPassMatch for FastCGI, results in connection refused on port 9000",Identifier error,2014,2017
+CB68,Apache httpd,https://serverfault.com/questions/851187/apache-does-not-listen-to-specified-port,Apache does not listen to specified port,Identifier error,2017,2017
+CB69,Apache httpd,https://serverfault.com/questions/873958/iis-hosted-wcf-service-accessible-from-one-domain-but-not-the-other,IIS hosted WCF service accessible from one domain but not the other,Identifier error,2017,2017
+CB70,Apache httpd,https://serverfault.com/questions/229202/apache2-mod-proxy-in-conjuction-with-mod-rewrite-not-working-as-expected,apache2 mod_proxy in conjuction with mod_rewrite not working as expected,Identifier error,2011,2012
+CB71,Apache httpd,https://serverfault.com/questions/233607/php-ini-does-not-load,PHP.ini does not load,Identifier error,2011,2011
+CB72,Apache httpd,https://serverfault.com/questions/414411/session-cache-is-not-configured-why,Session Cache is not configured… why?,Identifier error,2012,2021
+CB73,Apache httpd,https://serverfault.com/questions/431832/why-am-i-getting-network-error-403-forbidden-in-firebug-for-files-i-am-not-tryi,Why am I getting Network error: 403 Forbidden in firebug for files I am not trying to access?,Identifier error,2012,2016
+CB74,Apache httpd,https://serverfault.com/questions/440728/unable-to-upload-to-tmp-directory,Unable to upload to tmp directory,Identifier error,2012,2012
+CB75,Apache httpd,https://serverfault.com/questions/893537/could-be-directory-index-forbidden-by-options-directive-the-cause-for-request,Could be “Directory index forbidden by Options directive” the cause for “Request exceeded the limit of 10 internal redirects”?,Identifier error,2018,2018
+CB76,Apache httpd,https://stackoverflow.com/questions/119336,ssl_error_rx_record_too_long and Apache SSL [closed],Identifier error,2008,2022
+CB77,Apache httpd,http://serverfault.com/questions/105670/xampp-apache-server-not-working-on-internal-network,xampp apache server not working on internal network,Identifier error,2010,2010
+CB78,Apache httpd,http://serverfault.com/questions/356391/setting-up-virtualhost-on-osx-10-7-lion,setting up virtualhost on osx 10 7 lion,Identifier error,2012,2012
+CB79,Apache httpd,https://serverfault.com/questions/1052301/apache-2-4-ignores-mod-proxy,Apache 2.4 ignores mod_proxy?,Identifier error,2021,2021
+CB80,Apache httpd,https://serverfault.com/questions/18789/ssl-error-handshake-failure-alert-with-commercial-ca-based-client-certificate,ssl_error_handshake_failure_alert with Commercial CA-based client certificate,Identifier error,2009,2010
+CB81,Apache httpd,http://serverfault.com/questions/216771/apache-named-virtual-hosts-and-https,apache named virtual hosts and https,Identifier error,2010,2010
+CB82,Apache httpd,http://serverfault.com/questions/218961/mindtouch-broke-my-apache2-virtual-host-configuration,mindtouch broke my apache2 virtual host configuration,Identifier error,2011,2011
+CB83,Apache httpd,http://serverfault.com/questions/362182/changing-the-default-apache-port-doesnt-work,changing the default apache port doesnt work,Identifier error,2012,2019
+CB84,Apache httpd,http://serverfault.com/questions/562100/ubuntu-12-04-vhost-page-not-found,ubuntu 12 04 vhost page not found,Identifier error,2013,2013
+CB85,Apache httpd,https://serverfault.com/questions/22869/have-i-messed-up-buying-the-wrong-ssl-certificate-for-my-domain,Have I messed up buying the wrong SSL certificate for my domain?,Identifier error,2009,2010
+CB86,Apache httpd,https://serverfault.com/questions/768633/apache-virtualhost-configuration-wont-get-matched,Apache VirtualHost configuration won't get matched,Identifier error,2016,2016
+CB87,Apache httpd,https://serverfault.com/questions/929391/ubuntu-define-correct-virtual-host-on-81-port,Ubuntu define incorrect virtual host on :81 port,Identifier error,2018,2018
+CB88,Apache httpd,http://serverfault.com/questions/115183/ubuntu-server-mod-chroot-apache2-problem,ubuntu server mod chroot apache2 problem,Identifier error,2010,2010
+CB89,Apache httpd,http://serverfault.com/questions/342322/why-isnt-excluding-a-folder-in-mod-rewrite-not-taken-in-account,why isnt excluding a folder in mod rewrite not taken in account,Identifier error,2011,2011
+CB90,Apache httpd,http://serverfault.com/questions/76222/apache-not-letting-me-into-a-folder,apache not letting me into a folder,Identifier error,2009,2009
+CB91,Apache httpd,https://serverfault.com/questions/599055/permissions-denied-on-apache-rewrite-module-virtual-host-configuration,"keep getting ""Permissions denied"" on apache 2 virtualhost once we moved it to its own conf file",Identifier error,2014,2018
+CB92,Apache httpd,https://serverfault.com/questions/1017781/every-apache-request-returns-a-ah01797-error,Every Apache request returns a AH01797 error,Identifier error,2020,2020
+CB93,Apache httpd,https://serverfault.com/questions/1018387/apache-reverse-proxy-503-custom-page-not-working,Apache reverse proxy 503 custom page not working,Identifier error,2020,2020
+CB94,Apache httpd,https://serverfault.com/questions/22369/what-should-the-django-settings-module-be-set-to-in-apache-when-deploying-a-djan,What should the DJANGO_SETTINGS_MODULE be set to in Apache when deploying a django app?,Identifier error,2009,2009
+CB95,Apache httpd,https://serverfault.com/questions/258848/i-cant-get-ruby-on-rails-passenger-apache-to-work,Can't Get Ruby on Rails + Passenger + Apache to Work,Identifier error,2011,2012
+CB96,Apache httpd,https://serverfault.com/questions/446510/apache-php-via-fastcgi,The requested URL was not found on this server,Identifier error,2012,2012
+CB97,Apache httpd,https://serverfault.com/questions/722904/apache-vhost-ah01630-client-denied-by-server-configuration,Apache vhost AH01630: client denied by server configuration,Identifier error,2015,2015
+CB98,Apache httpd,https://serverfault.com/questions/800102/error-using-mod-jk-in-httpd-undefined-symbol-ap-get-server-version,Error using mod_jk in httpd: undefined symbol: ap_get_server_version,Identifier error,2016,2024
+CB99,Apache httpd,https://serverfault.com/questions/101164/apache2-could-not-reliably-determine-the-servers-fully-qualified-domain-name,apache2: Could not reliably determine the server's fully qualified domain name,Identifier error,2010,2012
+CB100,Apache httpd,https://serverfault.com/questions/599055/permissions-denied-on-apache-rewrite-module-virtual-host-configuration?r=SearchResults,Permissions denied on apache rewrite module virtual host configuration,Identifier error,2014,2018
+CB101,Apache httpd,https://serverfault.com/questions/830373/apache-wont-reload-and-apachectl-s-t-doesnt-display-anything,"Apache won't reload, and apachectl -S / -t doesn't display anything",Identifier error,2017,2017
+CB102,Apache httpd,https://serverfault.com/questions/98055/django-could-not-import-settings-settings-py-error,Django “Could not import settings 'settings.py'” error,Identifier error,2009,2009
+CB103,Apache httpd,https://serverfault.com/questions/499941/svn-repository-moved-permanently-error-apache-configuration-issue,svn repository was moved permanently,Identifier error,2013,2013
+CB104,Hadoop,https://stackoverflow.com/questions/51824229/hadoop-fs-ls-call-from-server-127-0-1-1-to-localhost-failed/51968483#51968483,hadoop fs -ls : Call From server/127.0.1.1 to localhost failed,Identifier error,2018,2018
+CB105,Hadoop,https://stackoverflow.com/questions/28702100/apache-oozie-failed-loading-sharelib/31193378#31193378,Apache Oozie failed loading ShareLib,Identifier error,2015,2016
+CB106,Hadoop,https://stackoverflow.com/questions/36753546/spark-job-running-on-yarn-cluster-java-io-filenotfoundexception-file-does-not-e/36776378#36776378,"Spark Job running on Yarn Cluster java.io.FileNotFoundException: File does not exits, eventhough the file exits on the master node",Identifier error,2016,2018
+CB107,Hadoop,https://stackoverflow.com/questions/47886832/sparkr-error-the-root-scratch-dir-tmp-hive-on-hdfs-should-be-writable/47906716#47906716,SparkR Error: The root scratch dir: /tmp/hive on HDFS should be writable,Identifier error,2017,2017
+CB108,Hadoop,https://stackoverflow.com/questions/48104900/streamsets-mapr-fs-origin-dest-kerberosprincipal-exception-using-hadoop-impers/48157362#48157362,Streamsets Mapr FS origin/dest. KerberosPrincipal exception (using hadoop impersonation (in mapr 6.0)),Identifier error,2018,2018
+CB109,Hadoop,https://stackoverflow.com/questions/17827293/error-on-starting-hdfs-daemons-on-hadoop-multinode-cluster/17829408#17829408,Error on starting HDFS daemons on hadoop Multinode cluster,Identifier error,2013,2013
+CB110,Others,https://stackoverflow.com/questions/27161854,Why does Jenkins complain that my reverse proxy setup is broken?,Identifier error,2014,2023
+CB111,Others,https://stackoverflow.com/questions/38183737,Tomcat7 + Maven plugin: Tomcat will not start with my war,Identifier error,2016,2017
+CB112,Others,https://stackoverflow.com/questions/19733116,log4j xml configuration error,Identifier error,2013,2013
+CB113,Others,https://stackoverflow.com/questions/1348842,What should I set JAVA_HOME environment variable on macOS X 10.6?,Identifier error,2009,2023
+CB114,MySQL,http://serverfault.com/questions/108741/problems-configuring-mysql-on-ubuntu-for-remote-access,problems configuring mysql on ubuntu for remote access,Identifier error,2010,2010
+CB115,MySQL,http://serverfault.com/questions/249529/how-to-access-remotly-to-a-mysql-server,how to access remotly to a mysql server,Identifier error,2011,2011
+CB116,MySQL,http://serverfault.com/questions/416570/mysqld-job-failed-to-start,mysqld job failed to start,Identifier error,2012,2012
+CB117,MySQL,http://serverfault.com/questions/505682/django-cant-connect-to-local-mysql-server-through-socket,django cant connect to local mysql server through socket,Identifier error,2013,2013
+CB118,MySQL,http://stackoverflow.com/questions/5737089/two-mysql-servers,Two MySQL servers,Identifier error,2011,2014
+CB119,MySQL,http://serverfault.com/questions/143373/cant-connect-to-local-mysql-server-through-socket,cant connect to local mysql server through socket,Identifier error,2010,2010
+CB120,MySQL,http://serverfault.com/questions/221566/mysql-command-line-not-working,mysql command line not working,Identifier error,2011,2011
+CB121,MySQL,http://serverfault.com/questions/300935/how-to-make-mysql-to-find-old-databases-on-hdd,how to make mysql to find old databases on hdd,Identifier error,2011,2012
+CB122,MySQL,http://serverfault.com/questions/323175/cant-start-mysqld-on-centos5-after-attempting-to-upgrade-to-php-5-3,cant start mysqld on centos5 after attempting to upgrade to php 5 3,Identifier error,2011,2011
+CB123,MySQL,http://serverfault.com/questions/420285/error-running-mysql-daemon,error running mysql daemon,Identifier error,2012,2012
+CB124,MySQL,http://serverfault.com/questions/503453/cant-start-mysql-5-6-server-after-computer-is-restarted,cant start mysql 5 6 server after computer is restarted,Identifier error,2013,2014
+CB125,MySQL,http://serverfault.com/questions/516934/after-installing-mysql-5-6-the-server-cant-start,after installing mysql 5 6 the server cant start,Identifier error,2013,2018
+CB126,MySQL,http://serverfault.com/questions/537553/mariadb-galera-clustering-active-active-operation-not-permitted-error,mariadb galera clustering active active operation not permitted error,Identifier error,2013,2013
+CB127,MySQL,http://stackoverflow.com/questions/12944386/mysql-not-working,mysql not working,Identifier error,2012,2012
+CB128,MySQL,https://serverfault.com/questions/362595/mysql-bind-on-unix-socket-permission-denied,mysql bind on unix socket permission denied,Identifier error,2012,2019
+CB129,Nginx,https://stackoverflow.com/questions/37134810/nginx-configuration-throws-500-internal-server-error,Nginx Configuration throws 500 Internal Server Error,Identifier error,2016,2016
+CB130,Nginx,https://serverfault.com/questions/505173/cannot-hit-nginx-from-outside-localhost,Cannot hit nginx from outside localhost,Identifier error,2013,2013
+CB131,Nginx,https://serverfault.com/questions/823723/nginx-php-fpm-permission-denied-while-connecting-to-upstream,nginx php-fpm: Permission denied while connecting to upstream,Identifier error,2017,2017
+CB132,Nginx,https://serverfault.com/questions/217426/nginx-not-working-properly-on-subdomains,Nginx not working properly on subdomains,Identifier error,2010,2015
+CB133,Nginx,https://serverfault.com/questions/240743/nginx-cant-load-images-css-js,"nginx can't load images,css,js",Identifier error,2011,2011
+CB134,Nginx,https://serverfault.com/questions/320529/php-pages-in-a-nginx-php-fpm-server-doesnt-load,php pages in a nginx + php-fpm server doesn't load,Identifier error,2011,2011
+CB135,Nginx,https://serverfault.com/questions/388835/svn-using-nginx-commit-failed-path-not-found,svn using nginx Commit failed: path not found,Identifier error,2012,2012
+CB136,Nginx,https://serverfault.com/questions/455299/passengermod-rails-fails-to-start-puppet-master-under-nginx,passenger(mod_rails) fails to start puppet master under nginx,Identifier error,2012,2015
+CB137,Nginx,https://serverfault.com/questions/463674/a-complicated-nginx-php-fpm-chroot-setup,A complicated nginx/php-fpm chroot setup,Identifier error,2013,2014
+CB138,Nginx,https://serverfault.com/questions/557021/why-do-i-get-a-404-for-my-index-page-in-my-http-https-nginx-setup,Why do I get a 404 for my index.page in my http/https nginx setup?,Identifier error,2013,2013
+CB139,Nginx,https://serverfault.com/questions/578869/alias-directive-with-nested-location-to-catch-php-files-requests-for-php-files,alias directive with nested location to catch php files - requests for php files giving 404,Identifier error,2014,2014
+CB140,Nginx,https://serverfault.com/questions/669486/using-fastcgi-split-path-info-for-a-userdir-in-nginx,Using fastcgi_split_path_info for a userdir in nginx,Identifier error,2015,2015
+CB141,Nginx,https://serverfault.com/questions/737823/bizarre-404-on-nginx/782697#782697,bizarre 404 on nginx,Identifier error,2015,2016
+CB142,Nginx,https://serverfault.com/questions/946614/502-bad-gateway-because-of-undefined-index,502 bad gateway because of Undefined Index?,Identifier error,2018,2018
+CB143,Nginx,https://serverfault.com/questions/952225/specify-directory-location-for-sub-domain-in-nginx-for-cacti,Specify directory location for sub domain in nginx for cacti,Identifier error,2019,2019
+CB144,Nginx,https://serverfault.com/questions/688409/nginx-1-8-configuration-problems,Nginx 1.8 Configuration Problems,Identifier error,2015,2015
+CB145,Others,https://serverfault.com/questions/628340/postfix-config-and-php,PostFix Config and PHP,Identifier error,2014,2014
+CB146,PHP,https://stackoverflow.com/questions/29756194,Access denied for user 'homestead'@'localhost' (using password: YES)Access denied for user 'homestead'@'localhost' (using password: YES),Identifier error,2015,2024
+CB147,PHP,https://serverfault.com/questions/492843/nginx-php-fpm-on-diff-server-bad-gateway-and-security-too,"nginx, php-fpm on diff server bad gateway (and security too)",Identifier error,2013,2013
+CB148,PHP,https://serverfault.com/questions/604990/getting-multiple-pools-working-using-php-fpm-and-apache-2-4,Getting multiple pools working using PHP-FPM and Apache 2.4,Identifier error,2014,2016
+CB149,PHP,https://serverfault.com/questions/279133/phpmyadmin-file-could-not-be-read,phpMyAdmin File Could Not Be Read,Identifier error,2011,2012
+CB150,PHP,https://serverfault.com/questions/501258/php-fpm-gives-permission-denied,PHP FPM gives permission denied?,Unauthorized access,2013,2020
+CB151,PHP,https://serverfault.com/questions/767390/php-5-6-broken-after-trying-to-upgrade-to-php-7,PHP 5.6 Broken after trying to upgrade to PHP 7,Identifier error,2016,2016
+CB152,PHP,https://serverfault.com/questions/949851/how-to-fix-phpmyadmin-with-php-7-2-on-rhel7,How to fix phpMyAdmin with PHP 7.2 on RHEL7?,Identifier error,2019,2019
+CB153,PostgreSQL,https://stackoverflow.com/questions/37612800/postgresql-connection-timed-out-operationalerror-on-django-and-new-server/37614370#37614370,PostgreSQL Connection Timed Out OperationalError on Django and new server,Identifier error,2016,2016
+CB154,PostgreSQL,https://stackoverflow.com/questions/30714334/remote-connection-issues-with-psycopg2-and-postgresql/30722698#30722698,Remote connection issues with psycopg2 and postgresql,Identifier error,2015,2015
+CB155,PostgreSQL,https://stackoverflow.com/questions/38254632/an-error-with-psycopg2-while-trying-to-connect-to-a-remote-host-server/38255495#38255495,An error with psycopg2 while trying to connect to a remote host server,Identifier error,2016,2016
+CB156,PostgreSQL,https://serverfault.com/questions/543852/change-and-initialize-postgresql-9-3-default-data-and-log-directories-on-ubuntu/544243#544243,Change and initialize Postgresql 9.3 default data and log directories on Ubuntu 12.04 LTS,Identifier error,2013,2015
+CB157,PostgreSQL,https://stackoverflow.com/questions/63501885/cant-connect-to-postgres-via-psql-or-php-only-pgadmin4/63502635#63502635,"Can't connect to postgres via PSQL or php, only pgAdmin4",Identifier error,2020,2020
+CB158,PostgreSQL,https://stackoverflow.com/questions/61937633/failed-to-connect-to-the-database-postgres-by-jmeter/61938261#61938261,Failed to connect to the database (Postgres) by Jmeter,Identifier error,2020,2020
+CB159,PostgreSQL,https://stackoverflow.com/questions/22469188/deepdive-installation-postgresql-error/22472911#22472911,"Deepdive installation, PostgreSQL error",Identifier error,2014,2014
+CB160,PostgreSQL,https://stackoverflow.com/questions/51346686/odoo-database-export-error/51347254#51347254,Odoo Database Export Error,Identifier error,2018,2018
+CB161,PostgreSQL,https://stackoverflow.com/questions/22364840/pgadmin-iii-access-to-database-denied/22365336#22365336,pgAdmin III: Access to database denied,Identifier error,2014,2014
+CB162,PostgreSQL,https://stackoverflow.com/questions/44000579/how-to-connect-to-postgresql-from-phoenix-web-app-via-ssl/45096330#45096330,How to connect to PostgreSQL from Phoenix Web App via SSL?,Identifier error,2017,2021
+CB163,Hadoop,https://stackoverflow.com/questions/43836908/mapreduce-doesnt-produce-an-output/43841386#43841386,MapReduce doesn't produce an output,Identifier error,2017,2017
+CB164,Nginx,https://stackoverflow.com/questions/53173738,Nginx configuration errors,Identifier error,2018,2018
+CB165,MySQL,https://forum.directadmin.com/threads/mysql-log-slow-queries.47547/,Mysql --log-slow-queries,Identifier error,2013,2013
+CB166,Apache httpd,https://serverfault.com/questions/418101/apache-client-denied-by-server-configuration-despite-allowing-access-to-direc,Client denied by server configuration: /home/remix/,Identifier error,2012,2020
+CB167,Apache httpd,https://stackoverflow.com/questions/28251219,PHP running from Apache cannot write to filesystem,Unauthorized access,2015,2017
+CB168,MySQL,http://serverfault.com/questions/304648/mysql-and-multi-core-processors,MySQL and Multi-Core processors,Identifier error,2011,2011
+CB169,PostgreSQL,https://stackoverflow.com/questions/41526546/vagrant-how-to-access-guests-postgres-server-from-host/41527398#41527398,Vagrant - How to access guests postgres server from host,Identifier error,2017,2020
+CB170,MySQL,https://stackoverflow.com/questions/16637492,MySQl Configuration Error After reinstall it,Identifier error,2013,2013
+CB171,Apache httpd,https://serverfault.com/questions/851187/apache-does-not-listen-to-specified-port,Apache does not listen to specified port,Identifier error,2017,2017
+CB172,Others,https://stackoverflow.com/questions/36473479,How to set the PATH environment variable in Jenkins configuration on Windows?,Identifier error,2016,2023
+CB173,MySQL,https://stackoverflow.com/questions/74942002,connect mysql instance using auth proxy（should set private ip）,Unauthorized access,2022,2022
+CB174,MySQL,https://stackoverflow.com/questions/74808107,"bind-address in the configuration file, if it set to it will allow only localhost login.127.0.0.1 （wrong ip）",Identifier error,2022,2022
+CB175,PostgreSQL,https://stackoverflow.com/questions/74677369/,refer to host's localhost via .host.docker.internal,Identifier error,2022,2022
+CB176,MySQL,https://stackoverflow.com/questions/74420726/,port was occupied,Resource competing,2022,2022
+CB177,MySQL,https://stackoverflow.com/questions/74416286,enabling SSL/TLS on server,Unauthorized access,2022,2022
+CB178,MySQL,https://stackoverflow.com/questions/74291717,have to give it privileges to connect to that database,Unauthorized access,2022,2022
+CB179,MySQL,https://stackoverflow.com/questions/74267253,wrong URL,Identifier error,2022,2022
+CB180,MySQL,https://stackoverflow.com/questions/74072585,Integrated Security=true;,Unauthorized access,2022,2022
+CB181,Nginx,https://stackoverflow.com/questions/72855671,a listener for example.net,Identifier error,2022,2022
+CB182,Nginx,https://stackoverflow.com/questions/74238832,add server_name on the listen 80 of both blocks  conflict server name,Resource competing,2022,2022
+CB183,Nginx,https://stackoverflow.com/questions/72735826/,wrong path,Identifier error,2022,2022
+CB184,Others,https://stackoverflow.com/questions/72433208,"change home path, version of apache 2.2",Identifier error,2022,2022
+CB185,PHP,https://stackoverflow.com/questions/72347049," PHP settings for mysqli have the same settings with unix, upgrade from 10.5 to 10.6",Identifier error,2022,2022
+CB186,PHP,https://stackoverflow.com/questions/72204502/,internal container communication with another port,Identifier error,2022,2022
+CB187,Nginx,https://stackoverflow.com/questions/71475528/,wrong path,Identifier error,2022,2022
+CB188,Nginx,https://stackoverflow.com/questions/74927448, typo in the URL,Identifier error,2022,2023
+CB189,Nginx,https://stackoverflow.com/questions/74770177/,wrong URL,Identifier error,2022,2022
+CB190,Nginx,https://stackoverflow.com/questions/73462828,server_name should not have ports,Identifier error,2022,2022
+CB191,Nginx,https://stackoverflow.com/questions/73184948, listening on 443 is forwarding the request back to 80 using proxy_pass,Identifier error,2022,2022
+CB192,Nginx,https://stackoverflow.com/questions/72129793,Your Ingress points at port 8080 but Service exposes port 80,Identifier error,2022,2022
+CB193,Nginx,https://stackoverflow.com/questions/71907762,wrong URL（https？）,Identifier error,2022,2022
+CB194,Nginx,https://stackoverflow.com/questions/70887445,wrong path,Identifier error,2022,2022
+CB195,Nginx,https://stackoverflow.com/questions/70886968,server_name directives to include the private ip address,Identifier error,2022,2022
+CB196,Nginx,https://stackoverflow.com/questions/70848961, whitelist the API server IP address on the database firewall configuration,Unauthorized access,2022,2022
+CB197,PostgreSQL,https://stackoverflow.com/questions/74599960,same port,Resource competing,2022,2022
+CB198,Others,https://stackoverflow.com/questions/74168669/,wrong url,Identifier error,2022,2023
+CB199,Others,https://stackoverflow.com/questions/72641565,wrong port,Identifier error,2022,2022
+CB200,Hadoop,https://stackoverflow.com/questions/73994207,wrong port,Identifier error,2022,2022
+CB201,Hadoop,https://stackoverflow.com/questions/73027504/,wrong path,Identifier error,2022,2022
+CB202,Nginx,https://serverfault.com/questions/1106440/,wrong url,Identifier error,2022,2022
+CB203,Nginx,https://serverfault.com/questions/1115189,another config file that had port 80 listening on ssl,Resource competing,2022,2022
+CB204,Nginx,https://serverfault.com/questions/1114355/,"contain the domain name of your service, not IP address.",Identifier error,2022,2022
+CB205,Nginx,https://stackoverflow.com/questions/77487145,Nginx and Apache HTTPD servers by default listen on the standard HTTP port 80,Resource competing,2023,2023
+CB206,Hadoop,https://stackoverflow.com/questions/75858617,the account of windows current user name having a space,Identifier error,2023,2023
+CB207,Others,https://stackoverflow.com/questions/77125520,wrong container name,Identifier error,2023,2023
+CB208,MySQL,https://stackoverflow.com/questions/76735281,one port shared by two software,Resource competing,2023,2023
+CB209,MySQL,https://stackoverflow.com/questions/75602385,wrong port,Identifier error,2023,2023
+CB210,PHP,https://stackoverflow.com/questions/75468567,memory limit,Hardware limitation,2023,2023
+CB211,MySQL,https://stackoverflow.com/questions/75019943,wrong port,Identifier error,2023,2023
+CB212,Nginx,https://stackoverflow.com/questions/77038929,wrong identifier name,Identifier error,2023,2023
+CB213,Nginx,https://stackoverflow.com/questions/77579760,redundant trailing slash for 502,Identifier error,2023,2023
+CB214,Nginx,https://stackoverflow.com/questions/77482842,https and http should listen to different port,Identifier error,2023,2023
+CB215,Nginx,https://stackoverflow.com/questions/77379141,proxy_pass do not point correct container,Identifier error,2023,2023
+CB216,Nginx,https://stackoverflow.com/questions/77317363,the host name do not exist,Identifier error,2023,2023
+CB217,Nginx,https://stackoverflow.com/questions/77163428,"two containers, both are listening to port 8080 internally",Identifier error,2023,2023
+CB218,Others,https://stackoverflow.com/questions/77157071,cache configuration in the application itself,Hardware limitation,2023,2023
+CB219,Nginx,https://stackoverflow.com/questions/76948179,wrong path,Identifier error,2023,2023
+CB220,Nginx,https://stackoverflow.com/questions/76956106,wrong path,Identifier error,2023,2023
+CB221,Nginx,https://stackoverflow.com/questions/76841799,wrong path,Identifier error,2023,2023
+CB222,Nginx,https://stackoverflow.com/questions/76448293,environment variable PUBLIC_URL was not defined to / ,Identifier error,2023,2023
+CB223,Nginx,https://stackoverflow.com/questions/76259258/,https and http should listen to different port,Identifier error,2023,2024
+CB224,Nginx,https://stackoverflow.com/questions/76150479,wrong port,Identifier error,2023,2023
+CB225,Nginx,https://stackoverflow.com/questions/75982950/,https and http should listen to different port,Identifier error,2023,2023
+CB226,Nginx,https://stackoverflow.com/questions/75964831/,wrong user name,Identifier error,2023,2023
+CB227,Nginx,https://stackoverflow.com/questions/75467251/,with a trailing slash) in proxy_pass,Identifier error,2023,2023
+CB228,Nginx,https://stackoverflow.com/questions/75407845/,IP not localhost name,Identifier error,2023,2023
+CB229,PostgreSQL,https://stackoverflow.com/questions/76315492,path incomplete,Identifier error,2023,2023
+CB230,PHP,https://stackoverflow.com/questions/77003286,wrong path,Identifier error,2023,2023
+CB231,PHP,https://stackoverflow.com/questions/76486691/,wrong path,Identifier error,2023,2023
+CB232,Apache httpd,https://serverfault.com/questions/1140703,missing the leading /,Identifier error,2023,2023
+CB233,Nginx,https://serverfault.com/questions/1128178/,wrong IP,Identifier error,2023,2023
+CB234,Nginx,https://serverfault.com/questions/1120197/,listen 2 port for nginx,Identifier error,2023,2023
+CB235,Nginx,https://stackoverflow.com/questions/76853418,set the wrong port,Identifier error,2023,2023
+CB236,PostgreSQL,https://stackoverflow.com/questions/77635478,set the wrong port,Identifier error,2023,2023
+CB237,PostgreSQL,https://stackoverflow.com/questions/77323506,set the wrong port,Identifier error,2023,2023
+CB238,MySQL,https://dba.stackexchange.com/questions/25165/intermittent-mysql-crashes-with-error-fatal-error-cannot-allocate-memory-for-t,"intermittent MySQL crashes with error ""Fatal error: cannot allocate memory for the buffer pool""",Hardware limitation,2012,2015
+CB239,Apache httpd,https://serverfault.com/questions/1068250/apache-reverse-proxy-not-working-and-generates-a-404-error,Apache reverse proxy not working and generates a 404 error,Identifier error,2021,2021
+CB240,Hadoop,https://stackoverflow.com/questions/77449386,wrong configuration file format,Identifier error,2023,2023

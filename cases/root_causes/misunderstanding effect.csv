@@ -1,0 +1,354 @@
+﻿ID,Software,Link,Description,Subtype,Year,Last Modified
+CD1,MySQL,http://serverfault.com/questions/243631/mysql-server-running-only-on-unix-socket,mysql server running only on unix socket,Functionality,2011,2011
+CD2,MySQL,http://serverfault.com/questions/270258/mysql-not-accepting-connections-from-wp,mysql not accepting connections from wp(WordPress),Functionality,2011,2011
+CD3,MySQL,http://serverfault.com/questions/453251/how-to-speed-up-a-mysql-import,how to speed up a mysql import,Performance,2012,2012
+CD4,MySQL,http://serverfault.com/questions/6354/error-2006-hy000-at-line-149351-mysql-server-has-gone-away,error 2006 hy000 at line 149351 mysql server has gone away,Functionality,2009,2018
+CD5,MySQL,http://serverfault.com/questions/564378/mysql-shut-down-it-self-periodically,mysql shut down it self periodically,Functionality,2013,2013
+CD6,MySQL,http://serverfault.com/questions/240032/mysql-database-restore-error,MySQL Database Restore error,Functionality,2011,2011
+CD7,MySQL,http://serverfault.com/questions/320253/mysql-multi-level-replication-breaks-constantly,MySQL multi level replication breaks constantly,Functionality,2011,2011
+CD8,MySQL,http://serverfault.com/questions/308707/mysql-hangs-up-the-server-how-to-avoid-this,mysql hangs up the server how to avoid this,Functionality,2011,2011
+CD9,MySQL,http://serverfault.com/questions/317256/mysql-5-0-5-1-upgrade-table-upgrades-taking-a-very-long-time,mysql 5 0 5 1 upgrade table upgrades taking a very long time,Performance,2011,2011
+CD10,MySQL,http://serverfault.com/questions/102720/datadump-fails-with-exit-code-1,datadump fails with exit code 1,Functionality,2010,2010
+CD11,MySQL,http://serverfault.com/questions/538652/mysql-5-1-69-at-centos-6-4-doesnt-know-enable-named-pipe,mysql 5 1 69 at centos 6 4 doesnt know enable named pipe,Functionality,2013,2013
+CD12,MySQL,http://serverfault.com/questions/445822/mysql-died-during-the-night-on-a-12-04-1-ubuntu,mysql died during the night on a 12 04 1 ubuntu,Functionality,2012,2012
+CD13,MySQL,http://serverfault.com/questions/534676/mysql-failed-to-start-error-1053-windows-server-2008-r2,mysql failed to start error 1053 windows server 2008 r2,Functionality,2013,2024
+CD14,MySQL,http://serverfault.com/questions/362336/mysql-odbc-issue-data-source-name-not-found-and-no-default-driver-specified,mysql odbc issue data source name not found and no default driver specified,Functionality,2012,2012
+CD15,MySQL,http://serverfault.com/questions/403454/ubuntu-12-04-mysql-5-5-24-crashes-everyday,ubuntu 12 04 mysql 5 5 24 crashes everyday,Functionality,2012,2012
+CD16,MySQL,http://serverfault.com/questions/415884/files-in-mysql-data-folder,files in mysql data folder,Functionality,2012,2012
+CD17,MySQL,http://serverfault.com/questions/316938/mysql-max-allowed-packet-greater-than-1-gb-is-it-possible,mysql max allowed packet greater than 1 gb is it possible,Functionality,2011,2011
+CD18,MySQL,http://serverfault.com/questions/311179/mysql-binary-logs-more-than-15-gb,mysql binary logs more than 15 gb,Functionality,2011,2011
+CD19,MySQL,https://dba.stackexchange.com/questions/1927/why-does-mysql-say-im-out-of-memory,why does mysql say im out of memory（out of memory,Functionality,2011,2014
+CD20,MySQL,http://serverfault.com/questions/531632/mysql-is-running-slow-on-db-import,mysql is running slow on db import,Performance,2013,2013
+CD21,MySQL,http://dba.stackexchange.com/questions/35284/mysql-cant-create-test-file-1067-error,mysql cant create test file 1067 error,Functionality,2013,2022
+CD22,MySQL,http://serverfault.com/questions/329298/could-not-start-the-service-mysql-error0-how-to-get-mysql-5-5-server-running,could not start the service mysql error0 how to get mysql 5 5 server running,Functionality,2011,2011
+CD23,MySQL,http://serverfault.com/questions/538652/mysql-5-1-69-at-centos-6-4-doesnt-know-enable-named-pipe,mysql 5 1 69 at centos 6 4 doesnt know enable named pipe,Functionality,2013,2013
+CD24,MySQL,http://serverfault.com/questions/488489/mysql-database-config-optimization,mysql database config optimization,Performance,2013,2013
+CD25,MySQL,http://dba.stackexchange.com/questions/6134/fixing-mysql-errors-recorded-in-error-logs,fixing mysql errors recorded in error logs,Functionality,2011,2011
+CD26,MySQL,http://dba.stackexchange.com/questions/56412/mysql-query-extremely-slow-after-server-restart,mysql query extremely slow after server restart,Performance,2014,2014
+CD27,MySQL,http://serverfault.com/questions/431597/mysql-binlogs-seems-incomplete,mysql binlogs seems incomplete,Functionality,2012,2012
+CD28,MySQL,http://dba.stackexchange.com/questions/27892/innodb-master-master-replication-goes-inconsistant-after-power-failure-tests,innodb master master replication goes inconsistant after power failure tests,Functionality,2012,2012
+CD29,MySQL,http://stackoverflow.com/questions/17387299/what-are-huge-files-0-000001-and-0-000002-files-and-so-on-in-mysql-data-folder,what are huge files 0 000001 and 0 000002 files and so on in mysql data folder,Functionality,2013,2014
+CD30,MySQL,http://serverfault.com/questions/518747/mysql-is-running-very-slow-on-centos-6x-not-5x,mysql is running very slow on centos 6x not 5x,Performance,2013,2013
+CD31,MySQL,http://stackoverflow.com/questions/2252243/lots-of-mysql-sleep-processes,lots of mysql sleep processes,Functionality,2010,2010
+CD32,MySQL,http://stackoverflow.com/questions/20523297/24-cores-and-mysql-is-using-1-on-insert,24 cores and MYSQL is using 1 on INSERT,Functionality,2013,2013
+CD33,MySQL,http://dba.stackexchange.com/questions/48659/finding-swap-causes-of-mysql,finding swap causes of mysql,Functionality,2013,2013
+CD34,MySQL,http://serverfault.com/questions/288937/help-about-log-mysql,Help about log mysql,Functionality,2011,2011
+CD35,MySQL,http://serverfault.com/questions/87705/very-slow-mysql,very slow mysql,Performance,2009,2009
+CD36,MySQL,http://serverfault.com/questions/300958/mysql-is-hogging-my-server-resources,mysql is hogging my server resources,Performance,2011,2012
+CD37,MySQL,http://stackoverflow.com/questions/18694188/mysql-connection-taking-too-much-time,mysql connection taking too much time,Performance,2013,2013
+CD38,Apache httpd,https://serverfault.com/questions/206024/apache-virtualhost-and-modproxy-not-working-as-hoped,Apache VirtualHost and ModProxy not working as hoped,Functionality,2010,2010
+CD39,PHP,https://serverfault.com/questions/813498/php-fpm-7-server-reached-pm-max-children/1043945#1043945,Php-Fpm 7 server reached pm.max_children,Functionality,2016,2020
+CD40,PHP,https://serverfault.com/questions/1043523/mysql-crashes-randomly-out-of-memory-kill-process-24978-mysqld-score-99-or-sa,MySql crashes randomly Out of memory: Kill process 24978 (mysqld) score 99 or sacrifice child,Functionality,2020,2020
+CD41,PHP,https://serverfault.com/questions/263167/disabling-php-deprecation-warnings-and-notices,Disabling PHP Deprecation Warnings and Notices,Functionality,2011,2020
+CD42,PHP,https://serverfault.com/questions/226703/php-fpm-said-failed-to-post-process-the-configuration,php-fpm said “failed to post process the configuration”,Functionality,2011,2023
+CD43,PHP,https://serverfault.com/questions/32924/how-can-i-make-the-apache-php-setup-on-my-vps-show-php-errors-and-warnings,How can I make the Apache/PHP setup on my VPS show PHP errors and warnings?,Functionality,2009,2009
+CD44,PHP,https://serverfault.com/questions/866616/server-reached-pm-max-children-setting-280-consider-raising-it,PHP-FPM process getting crashed in every few days due to reached pm.max_children,Functionality,2017,2018
+CD45,PHP,https://serverfault.com/questions/823794/larger-uploads-not-posting-on-nginx-php-fpm,Larger uploads not posting on nginx + php-fpm,Functionality,2017,2017
+CD46,Nginx,https://serverfault.com/questions/920075/raised-php7-0-fpm-capacity-still-overloads,"Raised PHP7.0-fpm capacity, still overloads",Functionality,2018,2018
+CD47,PHP,https://serverfault.com/questions/280916/unable-to-remove-limit-on-memory-usage-for-php-script,Unable to remove limit on memory usage for PHP script,Functionality,2011,2012
+CD48,Nginx,https://serverfault.com/questions/258545/passing-arbitrary-http-request-headers-to-nginx-and-then-to-php,Passing arbitrary http request headers to nginx and then to php,Functionality,2011,2011
+CD49,Nginx,https://serverfault.com/questions/414480/communication-failure-between-nginx-and-php-fpm,Communication failure between nginx and PHP-FPM,Functionality,2012,2012
+CD50,PHP,https://serverfault.com/questions/237410/need-help-executing-php-on-apple-xserve,Need help executing php on Apple Xserve,Functionality,2011,2011
+CD51,Apache httpd,https://serverfault.com/questions/936267/client-denied-by-server-configuration-on-apache-2-4,Client denied by server configuration on Apache 2.4,Functionality,2018,2022
+CD52,Nginx,https://serverfault.com/questions/408001/php-nginx-errorwin,PHP/Nginx error(Win),Functionality,2012,2012
+CD53,Nginx,https://serverfault.com/questions/671704/strange-issue-with-nginx-compiled-from-source-and-nginx-from-official-fedora-rep,Strange issue with Nginx compiled from source and Nginx from official Fedora repository,Functionality,2015,2015
+CD54,PHP,https://serverfault.com/questions/559165/percona-got-an-error-writing-communication-packets,Percona: Got an error writing communication packets,Functionality,2013,2014
+CD55,Apache httpd,https://serverfault.com/questions/684617/debian-apache-deflate-mod-not-working,Debian Apache Deflate mod not working,Functionality,2015,2015
+CD56,PHP,https://serverfault.com/questions/630613/php-ajax-cannot-upload-files-larger-than-100kb,PHP + AJAX cannot upload files larger than 100KB,Functionality,2014,2014
+CD57,MySQL,https://serverfault.com/questions/421968/mysql-too-many-connections-during-normal-conditions-percona-innodb,"MySQL too many connections during normal conditions (Percona, InnoDB)",Functionality,2012,2012
+CD58,Apache httpd,https://serverfault.com/questions/473788/the-mod-negotiation-seems-to-be-enabled-but-php-files-without-extensions-retur,"The mod_negotiation seems to be enabled, but .php files without extensions return 404",Functionality,2013,2016
+CD59,Apache httpd,https://serverfault.com/questions/402630/http-error-413-request-entity-too-large,HTTP Error: 413 Request Entity Too Large,Functionality,2012,2022
+CD60,PHP,https://serverfault.com/questions/313961/cant-upload-5mb-file-using-ajax-file-uploader,Can't upload 5mb file using AJAX file uploader,Functionality,2011,2011
+CD61,Apache httpd,https://serverfault.com/questions/748404/apache-webserver-https-port-redirects-to-http-with-port-443,Apache webserver HTTPS port redirects to HTTP with port 443,Functionality,2016,2016
+CD62,Nginx,https://serverfault.com/questions/477180/how-to-make-zend-2-and-nginx-work,How to make Zend 2 and Nginx work?,Functionality,2013,2013
+CD63,Apache httpd,https://serverfault.com/questions/801015/error-404-with-all-pages-but-index-in-wordpress-over-apache,Error 404 with all pages but index in WordPress over Apache,Functionality,2016,2017
+CD64,Nginx,https://serverfault.com/questions/630571/why-adding-expire-header-to-static-files-in-nginx-does-not-work,why adding Expire-Header to static files in nginX does not work,Functionality,2014,2014
+CD65,Nginx,https://serverfault.com/questions/1030964/haproxy-edge-redirecting-to-proxy-port-instead-of-proxying-for-certain-uri-pat,HaProxy edge redirecting to proxy port (instead of proxying) for certain URI patterns,Functionality,2020,2020
+CD66,Apache httpd,https://serverfault.com/questions/70243/mod-rewrite-cakephp-routing-functionality-forbidden-after-snow-leopard-upgrade,Mod_rewrite (CakePHP routing functionality) forbidden after Snow Leopard upgrade,Functionality,2009,2011
+CD67,Apache httpd,https://serverfault.com/questions/1044724/apache2-sends-corrupt-responses-when-using-a-cifs-share,apache2 sends corrupt responses when using a cifs-share,Functionality,2020,2022
+CD68,Apache httpd,https://serverfault.com/questions/318594/namevirtualhost-12-345-67-89443-has-no-virtualhosts-after-enabling-and-disablin,NameVirtualHost 12.345.67.89:443 has no VirtualHosts after enabling and disabling suexec module,Functionality,2011,2011
+CD69,Apache httpd,http://serverfault.com/questions/490793/setting-up-mod-proxy-in-apache,setting up mod proxy in apache,Functionality,2013,2013
+CD70,Apache httpd,http://serverfault.com/questions/324219/apache-htaccess-rewriterule-to-remove-trailing-slash-infinite-loop,apache htaccess rewriterule to remove trailing slash infinite loop,Functionality,2011,2012
+CD71,Apache httpd,http://serverfault.com/questions/520054/configure-new-server-for-htaccess,configure new server for htaccess,Functionality,2013,2013
+CD72,Apache httpd,http://serverfault.com/questions/100519/how-can-i-prevent-users-from-seeing-my-php-source-code,how can i prevent users from seeing my php source code,Functionality,2010,2010
+CD73,Apache httpd,http://serverfault.com/questions/163412/seperate-server-logs,seperate server logs,Functionality,2010,2010
+CD74,Apache httpd,http://serverfault.com/questions/213424/how-to-stop-mod-deflate-from-logging-to-my-php-error-log,how to stop mod deflate from logging to my php error log,Functionality,2010,2010
+CD75,Apache httpd,http://serverfault.com/questions/500941/ssl-error-107-apache2-ssl-config,ssl error 107 apache2 ssl config,Functionality,2013,2013
+CD76,Apache httpd,http://serverfault.com/questions/404162/ec2-apache-server-giving-some-old-browsers-a-self-signed-certificate,ec2 apache server giving some old browsers a self signed certificate,Functionality,2012,2012
+CD77,Apache httpd,http://serverfault.com/questions/427396/htaccess-does-not-ask-the-password,htaccess does not ask the password,Functionality,2012,2018
+CD78,Apache httpd,https://serverfault.com/questions/549381/puppet-installs-too-many-dependencies,how to check and change permissions of files and folders for web server in windo,Functionality,2013,2013
+CD79,Apache httpd,http://serverfault.com/questions/155825/starting-apache-2-at-boot-on-mac-os-x-server-10-6,starting apache 2 at boot on mac os x server 10 6,Functionality,2010,2010
+CD80,Apache httpd,http://serverfault.com/questions/120511/apache-permission-errors,apache permission errors,Functionality,2010,2010
+CD81,Apache httpd,http://serverfault.com/questions/376466/apache-virtualhost-entry-with-windows-hostname,apache virtualhost entry with windows hostname,Functionality,2012,2012
+CD82,Apache httpd,https://stackoverflow.com/questions/21345022/hadoop-is-not-showing-my-job-in-the-job-tracker-even-though-it-is-running/21355549,Hadoop is not showing my job in the job tracker even though it is running,Functionality,2014,2015
+CD83,Apache httpd,https://serverfault.com/questions/843299/cant-get-any-browser-to-prompt-for-a-client-certificate-certificates-on-apache,Can't Get Any Browser to Prompt for A Client Certificate (Certificates on Apache),Functionality,2017,2017
+CD84,Apache httpd,https://serverfault.com/questions/868118/httpd-overwrite-conf-file-directive-with-conf-d-directive,httpd overwrite conf file directive with conf.d directive,Functionality,2017,2017
+CD85,Apache httpd,https://stackoverflow.com/questions/18218377/nginx-mysterious-error-despite-right-configuration,nginx mysterious error despite right configuration,Functionality,2013,2013
+CD86,Apache httpd,https://stackoverflow.com/questions/6174500/log4j-appenders-for-spring-dependencyinjectiontestexecutionlistener,Log4j appenders for spring DependencyInjectionTestExecutionListener,Functionality,2011,2011
+CD87,Apache httpd,https://serverfault.com/questions/932600/nginx-proxy-configuration-error-crit-pread,Nginx proxy configuration error: [crit] pread(),Functionality,2018,2018
+CD88,Apache httpd,https://stackoverflow.com/questions/22743582/error-configuration-with-name-default-not-found-in-android-studio,Error: Configuration with name 'default' not found in Android Studio,Functionality,2014,2018
+CD89,Apache httpd,https://serverfault.com/questions/418101/apache-client-denied-by-server-configuration-despite-allowing-access-to-direc,"Apache “Client denied by server configuration”, despite allowing access to directory (vhost configuration)",Functionality,2012,2020
+CD90,Apache httpd,https://serverfault.com/questions/706764/apache-redirect-domain-to-subfolder-to-virtualhost,Too many redirect when trying to redirect domain to subfolder to VirtualHost,Functionality,2015,2018
+CD91,Apache httpd,https://serverfault.com/questions/46871/apache-configuration-for-drupal-multisite,apache configuration for drupal multisite,Functionality,2009,2009
+CD92,Apache httpd,https://serverfault.com/questions/368100/displaying-custom-error-pages-on-different-virtualhosts-in-apache,Cannot display custom error pages on different VirtualHosts in Apache,Functionality,2012,2015
+CD93,Apache httpd,https://serverfault.com/questions/568010/apache-url-resolution-serve-html-file-as-directory,Cannot serve html file as directory,Functionality,2014,2014
+CD94,Apache httpd,https://serverfault.com/questions/748001/the-apache2handler-sapi-is-not-supported-by-pthreads,The apache2handler SAPI is not supported by pthreads,Functionality,2016,2019
+CD95,Apache httpd,https://serverfault.com/questions/769356/apache2-ssl-is-not-working,SSL is not working,Functionality,2016,2017
+CD96,Apache httpd,https://serverfault.com/questions/751245/apache-2-4-ubuntu-access-denied-for-cgi-bin,client denied by server configuration: /var/www/cgi-bintest.pl,Functionality,2016,2016
+CD97,Apache httpd,https://serverfault.com/questions/229981/how-to-get-html-css-jpg-pages-server-by-both-apache-tomcat-with-mod-jk,Cannot get html/css/jpg pages server by both apache & tomcat with mod_jk,Functionality,2011,2011
+CD98,Apache httpd,https://serverfault.com/questions/225201/apache-return-500-error-with-authentication-by-ldap-secure-port-ldaps,Apache return 500 error with authentication by LDAP secure port (ldaps),Functionality,2011,2011
+CD99,Apache httpd,https://serverfault.com/questions/748780/apache-2-2-cut-very-long-urls-from-wildfly,Apache 2.2 cut very long URLs from Wildfly,Functionality,2016,2017
+CD100,Apache httpd,https://serverfault.com/questions/677405/why-apache-returns-error-message-in-body-while-returning-200-status-code,apache returns error message in body while returning 200 status code,Functionality,2015,2016
+CD101,Apache httpd,https://serverfault.com/questions/972940/apache-hangs-after-every-2-3-weeks-with-closed-wait-connections-increasing-unti,"Apache hangs after every 2-3 weeks, with closed_wait connections increasing until it is restarted",Functionality,2019,2021
+CD102,Apache httpd,https://serverfault.com/questions/835792/apache-2-4-with-kerberos-auth-and-ldap-authorization,"AH01711: auth_ldap authorise: User DN not found, User not found",Functionality,2017,2024
+CD103,Apache httpd,https://serverfault.com/questions/996671/ah01630-client-denied-by-server-configuration-does-server-configuration-mean,AH01630: client denied by server configuration,Functionality,2019,2019
+CD104,Apache httpd,https://serverfault.com/questions/534515/apache-load-balancing-proxy-bypass-not-working,Apache Load Balancing Proxy bypass not working,Functionality,2013,2017
+CD105,Apache httpd,https://serverfault.com/questions/731642/start-apache-despite-error-in-virtual-hosts-ssl-certificate-file,error in Virtual Host's SSL certificate file,Functionality,2015,2020
+CD106,Apache httpd,https://serverfault.com/questions/626832/apache-vhost-configuration-for-port-forwarding,Error when trying to get the hang of the reverse proxy features in Apache,Functionality,2014,2014
+CD107,Apache httpd,https://serverfault.com/questions/744162/ssl-certificate-error-in-apache-2-4,SSL Certificate error in Apache 2.4,Functionality,2015,2015
+CD108,Apache httpd,https://serverfault.com/questions/525429/why-cant-i-change-document-root-in-apache-without-error,can't change document root in apache,Functionality,2013,2022
+CD109,Apache httpd,https://serverfault.com/questions/818292/winnt-apache-mpm-threadsperchild-configuration-on-windows-server-2008-r2,WINNT Apache MPM “ThreadsPerChild” configuration on Windows Server 2008 R2,Functionality,2016,2017
+CD110,Apache httpd,https://serverfault.com/questions/393733/openssl-0-9-on-centos-not-generating-ssl-cert-correctly,OpenSSL 0.9 on CentOS Not Generating SSL Cert Correctly,Functionality,2012,2012
+CD111,Others,https://stackoverflow.com/questions/22658769,How to change the language used within the Cygwin terminal?,Functionality,2014,2022
+CD112,Nginx,https://serverfault.com/questions/799178/nginx-php-fastcgi-permission-issue,Nginx/Php Fastcgi permission issue,Functionality,2016,2016
+CD113,Others,https://stackoverflow.com/questions/38279643,Error : No unix socket support on windows connecting mongodb,Functionality,2016,2019
+CD114,MySQL,https://stackoverflow.com/questions/5376427,Can't connect to local MySQL server through socket '/var/mysql/mysql.sock',Functionality,2011,2023
+CD115,Others,https://stackoverflow.com/questions/6934411,Solr DataImportHandler not found,Functionality,2011,2016
+CD116,MySQL,https://stackoverflow.com/questions/26189699,ASP.Net MVC4 configuration error after installing MySQL Connector .NET,Functionality,2014,2020
+CD117,Nginx,https://stackoverflow.com/questions/44301644,"Symfony - Nginx Configuration error : FastCGI sent in stderr ""Primary script unknown""",Functionality,2017,2018
+CD118,Others,https://stackoverflow.com/questions/12619754,Log4j different appenders for different log levels using properties file,Functionality,2012,2018
+CD119,Others,https://stackoverflow.com/questions/13502722,log4j2 - limiting the number of log files,Functionality,2012,2015
+CD120,Others,https://stackoverflow.com/questions/21471408,My log4j2 log file always have double output of each line. How can I stop the duplication please?,Functionality,2014,2023
+CD121,Others,https://stackoverflow.com/questions/1041548,log4j appender threshold and category,Functionality,2009,2012
+CD122,Others,https://stackoverflow.com/questions/61265859,How do I write error info in a separate file using log4j,Functionality,2020,2020
+CD123,Others,https://stackoverflow.com/questions/16868011,How do I configure logback to gzip my logs automatically?,Functionality,2013,2019
+CD124,MySQL,https://stackoverflow.com/questions/3456159,How to shrink/purge ibdata1 file in MySQL,Functionality,2010,2024
+CD125,Nginx,https://stackoverflow.com/questions/11061788,correct configuration for nginx to localhost?,Functionality,2012,2024
+CD126,Nginx,https://stackoverflow.com/questions/31479341,"nginx ""server"" directive with multiple ""server_name"" entries: always first one is passed to PHP's $_SERVER['SERVER_NAME']",Functionality,2015,2016
+CD127,Nginx,https://stackoverflow.com/questions/25993826,ERR_CONTENT_LENGTH_MISMATCH on nginx and proxy on Chrome when loading large files,Functionality,2014,2023
+CD128,Others,https://stackoverflow.com/questions/16573668,Best practices when running Node.js with port 80 (Ubuntu / Linode) [closed],Functionality,2013,2019
+CD129,Others,https://stackoverflow.com/questions/22684807,Spring Boot JPA - configuring auto reconnect,Functionality,2014,2020
+CD130,Others,https://stackoverflow.com/questions/2724820,Tomcat - How to limit the maximum memory Tomcat will use,Functionality,2010,2016
+CD131,Others,https://stackoverflow.com/questions/12308149,How do I increase the RAM and set up host-only networking in Vagrant?,Functionality,2012,2017
+CD132,Others,https://stackoverflow.com/questions/42118651,How to set Python language specific tab spacing in Visual Studio Code?,Functionality,2017,2024
+CD133,PHP,https://stackoverflow.com/questions/23213538,beanstalkd driver configuration error in laravel app,Functionality,2014,2016
+CD134,Nginx,https://serverfault.com/questions/744415/nginx-rewrite-with-index-configuration-error,nginx rewrite with index configuration error,Functionality,2015,2015
+CD135,Nginx,https://serverfault.com/questions/48807/no-input-file-specified-error-nginx-fcgi-when-requesting-non-existant-p,'No Input file specified' error - NginX / fcgi - when requesting non-existant .php file,Functionality,2009,2024
+CD136,Nginx,https://serverfault.com/questions/921985/gitlab-behind-nginx-doesnt-work,GitLab behind nginx doesn't work,Functionality,2018,2018
+CD137,Apache httpd,https://stackoverflow.com/questions/17475587,Setup mod_proxy on apache http server,Functionality,2013,2022
+CD138,MySQL,https://stackoverflow.com/questions/64793839,Barman geo-redundancy configuration error,Functionality,2020,2020
+CD139,Nginx,https://stackoverflow.com/questions/37149842,Redirect to 127.0.0.1 when access a wordpress hosted with apache and nginx in proxy,Functionality,2016,2020
+CD140,Others,https://stackoverflow.com/questions/26548505,org.hibernate.HibernateException: Access to DialectResolutionInfo cannot be null when 'hibernate.dialect' not set,Functionality,2014,2024
+CD141,Others,https://stackoverflow.com/questions/26794334,Spring-Boot MVC Template Not Loading (404 Not Found),Functionality,2014,2021
+CD142,Nginx,https://stackoverflow.com/questions/1067334/how-to-set-the-allowed-url-length-for-a-nginx-request-error-code-414-uri-too,"How to set the allowed url length for a nginx request (error code: 414, uri too large)",Functionality,2009,2022
+CD143,Nginx,https://stackoverflow.com/questions/10470109/error-502-in-nginx-php5-fpm,Error 502 in nginx + php5-fpm,Functionality,2012,2017
+CD144,Nginx,https://stackoverflow.com/questions/24773369/why-is-custom-error-page-not-working-in-my-nginx-configuration,Why is Custom Error Page not working in my nginx configuration?,Functionality,2014,2014
+CD145,Nginx,https://stackoverflow.com/questions/17808787/file-not-found-when-running-php-with-nginx,File Not Found when running PHP with Nginx,Functionality,2013,2024
+CD146,Others,https://stackoverflow.com/questions/2781683,WCF client endpoint: SecurityNegotiationException without <dns>,Functionality,2010,2017
+CD147,Nginx,https://serverfault.com/questions/816246/nginx-server-block-configuration-for-hosting-multiple-websites-on-ubuntu-16-04,NGINX server block configuration for hosting multiple websites on Ubuntu 16.04,Functionality,2016,2016
+CD148,Nginx,https://stackoverflow.com/questions/53952886/how-to-upload-an-image-using-nodejs-nginx-and-base64-413-payloadtoolargeerror,"How to upload an image using NodeJS, Nginx and base64? (413 PayloadTooLargeError: request entity too large)",Functionality,2018,2018
+CD149,Nginx,https://stackoverflow.com/questions/56588647/proxy-protocol-with-nginx-lxd-lxc-and-kong,"Proxy Protocol with NGinx, LXD/LXC and Kong",Functionality,2019,2019
+CD150,Nginx,https://stackoverflow.com/questions/68334352/nginx-ssl-react-node-response-is-timeout,"nginx ssl + react + node, response is timeout",Functionality,2021,2021
+CD151,Nginx,https://stackoverflow.com/questions/62352790/websockets-not-working-on-ios-and-safari-ossstatus-error-9837,Websockets not working on iOS and Safari - OSSStatus Error 9837,Functionality,2020,2021
+CD152,Nginx,https://stackoverflow.com/questions/56823594/cannot-use-url-to-navigate-in-react-through-nginx,Cannot use url to navigate in react through nginx,Functionality,2019,2019
+CD153,Nginx,https://stackoverflow.com/questions/63774412/nginx-not-serving-the-sitemap-file,nginx not serving the sitemap file,Functionality,2020,2020
+CD154,Nginx,https://stackoverflow.com/questions/63289848/kubernetes-nginx-ingress-error-with-configuration-snippet,kubernetes nginx ingress error with configuration-snippet,Functionality,2020,2020
+CD155,Nginx,https://stackoverflow.com/questions/57240475/nginx-configuration-for-node-subdomain-gives-502-error,nginx configuration for node subdomain gives 502 error,Functionality,2019,2022
+CD156,Others,https://stackoverflow.com/questions/36656575,Hibernate reverse engineering in eclipse from SQL Server Express R2,Functionality,2016,2016
+CD157,Others,https://stackoverflow.com/questions/15100251,AVD hardware buttons not enabled,Functionality,2013,2020
+CD158,Nginx,https://stackoverflow.com/questions/18218377/nginx-mysterious-error-despite-right-configuration,"nginx: [emerg] ""fastcgi_pass"" directive is not allowed here",Functionality,2013,2013
+CD159,Others,https://stackoverflow.com/questions/3361198,Configuration Error,Functionality,2010,2010
+CD160,Others,https://stackoverflow.com/questions/47009074,Configuration Error: Missing Region in Config (AWS),Functionality,2017,2021
+CD161,Others,https://stackoverflow.com/questions/12544725,"""A configuration with this name already exists"" error in eclipse run configurations",Functionality,2012,2022
+CD162,Others,https://stackoverflow.com/questions/21012799,Why do I need to configure the SQL dialect of a data source?,Functionality,2014,2017
+CD163,Others,https://stackoverflow.com/questions/40526643,Injection of autowired dependencies failed; nested exception is java.lang.NoClassDefFoundError: org/hibernate/cfg/Configuration,Functionality,2016,2016
+CD164,Others,https://stackoverflow.com/questions/10055695,Error Caused by: org.hibernate.HibernateException: Could not instantiate connection provider [org.connection.C3P0ConnectionProvider],Functionality,2012,2013
+CD165,Others,https://stackoverflow.com/questions/9794985,Config Error: This configuration section cannot be used at this path,Functionality,2012,2023
+CD166,Others,https://stackoverflow.com/questions/3325803,log4j log message during log4j initialization,Functionality,2010,2019
+CD167,Others,https://stackoverflow.com/questions/12141309,Log4net configuration error,Functionality,2012,2013
+CD168,MySQL,https://stackoverflow.com/questions/39369367,increase max_allowed_packet size in mysql docker,Functionality,2016,2023
+CD169,Nginx,https://stackoverflow.com/questions/38375588,Nginx reverse proxy to Heroku fails SSL handshake,Functionality,2016,2023
+CD170,Others,https://stackoverflow.com/questions/31348346,ReSharper configuration error for href,Functionality,2015,2015
+CD171,Others,https://stackoverflow.com/questions/47101743,How to display auto-configuration report when running a Spring Boot application,Functionality,2017,2021
+CD172,Others,https://stackoverflow.com/questions/2514445,Turning off auto indent when pasting text into vim,Functionality,2010,2023
+CD173,Nginx,https://serverfault.com/questions/422271/nginx-installation-on-ubuntu-giving-500-error,Nginx Installation on Ubuntu giving 500 error,Functionality,2012,2012
+CD174,Nginx,https://serverfault.com/questions/1022324/nginx-cannot-serve-with-permission-error,Nginx cannot serve with permission error,Functionality,2020,2020
+CD175,Others,https://stackoverflow.com/questions/9459892,how to define a host with https in action_mailer.default_url_options,Functionality,2012,2014
+CD176,Others,https://stackoverflow.com/questions/40726505,"What does ""resource varying by configuration"" error mean?",Functionality,2016,2016
+CD177,Apache httpd,https://stackoverflow.com/questions/10873295,"Error message ""Forbidden You don't have permission to access / on this server"" [closed]",Functionality,2012,2022
+CD178,Others,https://stackoverflow.com/questions/238183,Is possible to change the default diff tool in Mercurial?,Functionality,2008,2024
+CD179,MySQL,https://stackoverflow.com/questions/28849293,"How to make sql-mode=""NO_ENGINE_SUBSTITUTION"" permanent in MySQL my.cnf",Functionality,2015,2023
+CD180,Nginx,https://stackoverflow.com/questions/39968344,"nginx 'invalid number of arguments in ""map"" directive'",Functionality,2016,2019
+CD181,Others,https://stackoverflow.com/questions/2048667,Maven Cobertura OutOfMemoryError,Functionality,2010,2010
+CD182,Nginx,https://stackoverflow.com/questions/64268764/nginx-php-fpm-scaling-issues-on-aws-ec2-instance,Nginx + Php Fpm scaling issues on AWS EC2 instance,Functionality,2020,2020
+CD183,PostgreSQL,https://stackoverflow.com/questions/38514312/deal-with-postgresql-error-canceling-statement-due-to-conflict-with-recovery-i/39450919#39450919,Deal with Postgresql Error -canceling statement due to conflict with recovery- in psycopg2,Functionality,2016,2022
+CD184,PostgreSQL,https://stackoverflow.com/questions/6861945/postgresql-failing-with-below-error-on-lion-os-x/6873108#6873108,postgresql failing with below error on lion os x,Functionality,2011,2012
+CD185,PostgreSQL,https://stackoverflow.com/questions/53202663/dump-and-zip-file-can-not-resore-odoo-8-how-to-solve-it/53203007#53203007,"Dump and Zip file can not resore odoo 8, how to solve it?",Functionality,2018,2018
+CD186,PostgreSQL,https://stackoverflow.com/questions/60211967/django-throws-operationalerror-index-row-requires-35424-bytes-maximum-size-is/60212208#60212208,"Django throws OperationalError : index row requires 35424 bytes, maximum size is 8191",Functionality,2020,2020
+CD187,PostgreSQL,https://stackoverflow.com/questions/9904234/log-firing-of-triggers-in-postgres-9-1/9906996#9906996,Log firing of triggers in postgres 9.1,Functionality,2012,2012
+CD188,PostgreSQL,https://stackoverflow.com/questions/28311825/root-execution-of-the-postgresql-server-is-not-permitted/28312590#28312590,“root” execution of the PostgreSQL server is not permitted,Functionality,2015,2024
+CD189,PostgreSQL,https://stackoverflow.com/questions/14540570/how-can-i-get-psql-to-work-in-ubuntu-from-shell-psql-u-admin-d-mydb/14540639#14540639,How can I get psql to work in ubuntu from shell: $ psql -U admin -d mydb,Functionality,2013,2014
+CD190,PostgreSQL,https://stackoverflow.com/questions/5975369/got-error-while-creating-database-in-postgres/5977337#5977337,Got error while creating database in postgres,Functionality,2011,2011
+CD191,PostgreSQL,https://stackoverflow.com/questions/59771622/postgresql-v12-create-temp-table-runs-out-of-shared-memory-can-i-create-on-disk/59774066#59774066,"PostgreSQL V12 create temp table runs out of shared memory, can I create on disk?",Functionality,2020,2020
+CD192,PostgreSQL,https://stackoverflow.com/questions/60297213/master-datasources-xml-content-always-revert-back-to-initial-configuration-when/60298198#60298198,master-datasources.xml content always revert back to initial configuration when I start wso2server 5.9,Functionality,2020,2020
+CD193,PostgreSQL,https://stackoverflow.com/questions/28188681/what-steps-should-i-follow-to-get-postgresql-into-development-in-my-rails-app/28190514#28190514,What steps should I follow to get postgresql into development in my Rails app?,Functionality,2015,2015
+CD194,PostgreSQL,https://stackoverflow.com/questions/64201305/kubernetes-persistent-volume-mount-for-pgadmin/64210956#64210956,Kubernetes persistent volume mount for PgAdmin,Functionality,2020,2020
+CD195,PostgreSQL,https://stackoverflow.com/questions/41419008/best-practice-for-running-programmatic-postgres-db-migrations-on-linux/41425871#41425871,Best Practice for Running Programmatic Postgres DB Migrations on Linux,Functionality,2017,2017
+CD196,PostgreSQL,https://serverfault.com/questions/905181/postgresql-and-the-linux-kernel/905266#905266,PostgreSQL and the Linux Kernel,Functionality,2018,2018
+CD197,PostgreSQL,https://serverfault.com/questions/1006099/postgresql-10-and-ubuntu-unable-to-postgresql-server-up/1006279#1006279,Postgresql 10 and Ubuntu - Unable to postgresql server UP,Functionality,2020,2020
+CD198,PostgreSQL,https://serverfault.com/questions/913951/postfix-is-looking-for-etc-aliases-db-for-some-reason-instead-of-using-postgres/913960#913960,Postfix is looking for /etc/aliases.db for some reason instead of using Postgresql db,Functionality,2018,2018
+CD199,Hadoop,https://stackoverflow.com/questions/47773744/high-availability-of-spark-driver/47773828#47773828,high availability of spark driver,Functionality,2017,2017
+CD200,Hadoop,https://stackoverflow.com/questions/39507577/application-rejected-by-queue-placement-policy/43579679#43579679,application rejected by queue placement policy,Functionality,2016,2019
+CD201,Hadoop,https://stackoverflow.com/questions/34390854/spark-self-suppression-not-permitted-when-writing-big-file-to-hdfs/34392213#34392213,Spark: Self-suppression not permitted when writing big file to HDFS,Functionality,2015,2023
+CD202,Hadoop,https://stackoverflow.com/questions/19678518/map-reduce-error-on-smoke-test/19824263#19824263,map reduce error on smoke test,Functionality,2013,2013
+CD203,Hadoop,https://stackoverflow.com/questions/56259853/why-aws-is-rejecting-my-connections-when-i-am-using-wholetextfiles-with-pyspar/56266816#56266816,Why AWS is rejecting my connections when I am using wholeTextFiles() with pyspark?,Functionality,2019,2019
+CD204,Hadoop,https://stackoverflow.com/questions/17162679/pig-join-gets-outofmemoryerror-in-reducer-when-mapred-job-shuffle-input-buffer-p/18227433#18227433,pig join gets OutOfMemoryError in reducer when mapred.job.shuffle.input.buffer.percent=0.70,Functionality,2013,2014
+CD205,Hadoop,https://stackoverflow.com/questions/34245682/could-only-be-replicated-to-0-nodes-instead-of-minreplication-1-there-are-4/34250778#34250778,could only be replicated to 0 nodes instead of minReplication (=1). There are 4 datanode(s) running and no node(s) are excluded in this operation,Functionality,2015,2016
+CD206,Hadoop,https://stackoverflow.com/questions/60448972/reading-nested-data-from-elasticsearch-via-spark-scala/60451418#60451418,Reading Nested data from ElasticSearch via Spark Scala,Functionality,2020,2020
+CD207,Apache httpd,https://serverfault.com/questions/390779/500-internal-server-error-when-setting-up-apache-on-localhost,500 Internal Server Error when setting up Apache on localhost,Functionality,2012,2012
+CD208,news,https://virtualizationreview.com/articles/2017/06/21/configuration-error-leads-to-another-aws-data-breach.aspx,,Security,2017,2017
+CD209,news,https://techgenix.com/android-users-data-leak/,,Security,2023,2024
+CD210,news,https://www.itpro.co.uk/security/32732/nasa-employee-data-exposed-for-at-least-three-weeks-due-to-misconfigured-web-app,,Security,2019,2019
+CD211,news,https://www.wired.com/story/voter-records-exposed-database/,,Security,2017,2017
+CD212,news,https://www.upguard.com/breaches/verizon-cloud-leak,,Security,2017,2017
+CD213,news,https://www.healthcareitnews.com/news/63500-patient-records-breached-new-york-providers-misconfigured-database,,Security,2018,2018
+CD214,news,https://www.healthcareitnews.com/news/long-island-provider-exposes-data-42000-patients-misconfigured-database,,Security,2018,2018
+CD215,news,https://securitydiscovery.com/document-management-company-leaks-data-online/,,Security,2023,2023
+CD216,news,https://www.zdnet.com/article/database-leaks-data-on-most-of-ecuadors-citizens-including-6-7-million-children/,,Security,2019,2019
+CD217,news,https://www.itnews.com.au/news/azure-misconfiguration-exposed-millions-of-isoc-members-info-576120,,Security,2022,2022
+CD218,news,https://arstechnica.com/information-technology/2022/03/ddosers-use-new-method-capable-of-amplifying-traffic-by-a-factor-of-4-billion/,,Security,2022,2022
+CD219,news,https://thehackerblog.com/hacking-guatemalas-dns-spying-on-active-directory-users-by-exploiting-a-tld-misconfiguration/index.html,,Security,2017,2017
+CD220,news,https://www.businessinsider.com.au/stolen-data-of-533-million-facebook-users-leaked-online-2021-4,,Security,2021,2021
+CD221,news,https://nvd.nist.gov/vuln/detail/CVE-2000-0525,,Security,2000,2017
+CD222,Others,https://serverfault.com/questions/560535/3ware-card-in-raid-5-configuration-slow-and-causes-load-when-writing,,Performance,2013,2013
+CD223,MySQL,https://serverfault.com/questions/423051/mysql-slow-query-log-logging-all-queries,MySQL slow query log logging all queries,Performance,2012,2012
+CD224,PHP,https://stackoverflow.com/questions/28436237/why-is-php-composer-so-slow,Why is PHP Composer so slow?,Functionality,2015,2023
+CD225,Hadoop,https://stackoverflow.com/questions/32699586/kryo-serialization-error-in-spark-job/32700557#32700557,Kryo serialization error in Spark job,Functionality,2015,2015
+CD226,Nginx,https://stackoverflow.com/questions/28160982/how-to-make-nginx-cors-configuration-work-when-server-returns-error,How to make nginx CORS configuration work when server returns error?,Functionality,2015,2018
+CD227,Apache httpd,https://serverfault.com/questions/1024209/docker-apache-and-angular,giving a 502 error when retrieving the static files,Functionality,2020,2022
+CD228,MySQL,http://serverfault.com/questions/178303/mysql-binlog-not-logging,mysql binlog not logging,Functionality,2010,2010
+CD229,PHP,https://serverfault.com/questions/19561/how-can-i-display-and-log-php-errors-on-iis7/1033328#1033328,How can I display and log PHP errors on IIS7?,Functionality,2009,2020
+CD230,PHP,https://serverfault.com/questions/78636/php-mail-on-windows-webserver-2008,when I try to use the mail() function in oder to programmatically send emails via PHP. Then I get this error:,Functionality,2009,2009
+CD231,Nginx,https://serverfault.com/questions/745234/nginx-varnish-php-fpm-blank-pages,NginX->Varnish->PHP-FPM Blank pages，put nginx in front of Varnish failed,Functionality,2015,2016
+CD232,Nginx,https://serverfault.com/questions/223500/blank-page-wordpress-on-nginxphp-fpm,Blank Page: wordpress on nginx+php-fpm（unable to serve anything but blank pages.,Functionality,2011,2024
+CD233,Apache httpd,https://serverfault.com/questions/162802/apache-httpd-client-denied-by-server-configuration-htaccess-even-when-htac,Apache HTTPD: “client denied by server configuration: .htaccess” Even When .htaccess is Blank,Functionality,2010,2013
+CD234,Apache httpd,https://serverfault.com/questions/963770/apache-2-4-mutual-authentication-ah01797-client-denied-by-server-configuratio,Apache 2.4 mutual authentication - AH01797: client denied by server configuration,Functionality,2019,2019
+CD235,Apache httpd,https://stackoverflow.com/questions/3584713,ImportError: No module named django.core.handlers.wsgi in install django mod_wsgi config on apache,Functionality,2010,2013
+CD236,Apache httpd,https://stackoverflow.com/questions/8309465,Popen does not work anymore with apache/wsgi and python 2.7.2?,Functionality,2011,2011
+CD237,Others,https://stackoverflow.com/questions/61927814,How to disable open browser in CRA?,Functionality,2020,2024
+CD238,Others,https://stackoverflow.com/questions/13620051,"Heroku push of django app gets ""No module named psycopg2.extensions""",Functionality,2012,2021
+CD239,Apache httpd,https://stackoverflow.com/questions/16302273,Error on python web page,Functionality,2013,2013
+CD240,Nginx,https://serverfault.com/questions/363904/how-to-fix-404-not-found-error-on-nginx-configuration,"How to fix ""404 not found"" error on nginx configuration",Functionality,2012,2012
+CD241,Apache httpd,https://serverfault.com/questions/482251/ssl-site-returns-bad-gateway-error-in-ie-works-fine-in-other-browsers,"SSL Site Returns Bad Gateway Error in IE, Works Fine In Other Browsers",Functionality,2013,2013
+CD242,Apache httpd,https://serverfault.com/questions/146589/apache-virtual-host-issue?r=SearchResults,Cannot configure a sub-domain in Apache,Functionality,2010,2010
+CD243,MySQL,http://serverfault.com/questions/222206/extreme-slowness-with-a-remote-database-in-drupal,extreme slowness with a remote database in drupal,Functionality,2011,2011
+CD244,Apache httpd,https://serverfault.com/questions/936267/client-denied-by-server-configuration-on-apache-2-4,Client denied by server configuration on Apache 2.4,Functionality,2018,2022
+CD245,Hadoop,https://stackoverflow.com/questions/21345022/hadoop-is-not-showing-my-job-in-the-job-tracker-even-though-it-is-running/21355549#21355549,Hadoop is not showing my job in the job tracker even though it is running,Functionality,2014,2015
+CD246,Apache httpd,https://serverfault.com/questions/843299/cant-get-any-browser-to-prompt-for-a-client-certificate-certificates-on-apache,Can't Get Any Browser to Prompt for A Client Certificate (Certificates on Apache),Functionality,2017,2017
+CD247,MySQL,https://stackoverflow.com/questions/74710314,SQL mode NO_ZERO_DATE to make the wrong date number,Functionality,2022,2022
+CD248,MySQL,https://stackoverflow.com/questions/73756450, Increase innodb_buffer_pool_size performance may suffer if you keep the cache size the same.,Performance,2022,2022
+CD249,MySQL,https://stackoverflow.com/questions/73729667/,wrong storage engine,Functionality,2022,2023
+CD250,Others,https://stackoverflow.com/questions/73529248/,remove dependency and  add two configs in properties,Functionality,2022,2022
+CD251,Others,https://stackoverflow.com/questions/73414855, initial configuration with username and password has a few errors,Functionality,2022,2023
+CD252,MySQL,https://stackoverflow.com/questions/73089583/,innodb_buffer_pool_size should be about 70% of available RAM to improve performance,Performance,2022,2022
+CD253,MySQL,https://stackoverflow.com/questions/72855586,"wrong storage engine, default value",Functionality,2022,2022
+CD254,MySQL,https://stackoverflow.com/questions/72812247/, value has to be set at startup,Functionality,2022,2022
+CD255,MySQL,https://stackoverflow.com/questions/72560356,"too many connections error, SetMaxOpenConns SetMaxIdleConns",Functionality,2022,2022
+CD256,MySQL,https://stackoverflow.com/questions/72466258, the environment variable UPLOAD_LIMIT to your desired limit.,Functionality,2022,2022
+CD257,PHP,https://stackoverflow.com/questions/72255695/,add an options array with the path to your certificate,Functionality,2022,2022
+CD258,MySQL,https://stackoverflow.com/questions/72038872,slowly and gradually the RAM is occupied,Performance,2022,2022
+CD259,MySQL,https://stackoverflow.com/questions/71526672,change the max index size,Functionality,2022,2022
+CD260,MySQL,https://stackoverflow.com/questions/70948869,allows the client to read the file content on the computer where the client runs  secure-file-privLOAD DATA LOCAL INFILE,Performance,2022,2022
+CD261,MySQL,https://stackoverflow.com/questions/70797489,max_allowed_packet net_read_timeout lost connection,Functionality,2022,2022
+CD262,MySQL,https://stackoverflow.com/questions/70731727,change mysql case sensitivity setting. make it case insensitive.,Functionality,2022,2022
+CD263,MySQL,https://stackoverflow.com/questions/70741904,"add  a config testWhileIdle=""true""",Functionality,2022,2022
+CD264,PHP,https://stackoverflow.com/questions/74937056/,throw' => true has to be true for debugging,Functionality,2022,2023
+CD265,PHP,https://stackoverflow.com/questions/74656633,disabling php's garbage collector (by setting to gc_probability0),Functionality,2022,2023
+CD266,PHP,https://stackoverflow.com/questions/74215980,change the maximum upload file size,Functionality,2022,2022
+CD267,PHP,https://stackoverflow.com/questions/74069103,You need to also list in the debug mode value:develop,Functionality,2022,2023
+CD268,PHP,https://stackoverflow.com/questions/73605230,set allow_url_fopen=1,Functionality,2022,2022
+CD269,PHP,https://stackoverflow.com/questions/73301400, added the PHP path to environment variables,Functionality,2022,2023
+CD270,PHP,https://stackoverflow.com/questions/72782747,PHP memory limit,Performance,2022,2023
+CD271,PHP,https://stackoverflow.com/questions/72566152/,set a list of directories to skip in the PHP configuration of ownCloud,Functionality,2022,2022
+CD272,Nginx,https://stackoverflow.com/questions/71317809/,increase file upload size,Functionality,2022,2022
+CD273,PHP,https://stackoverflow.com/questions/70984765,all the post data in the form are limited,Functionality,2022,2022
+CD274,Apache httpd,https://stackoverflow.com/questions/73703101,"turn off ""ProxyPreserveHost"" in section",Functionality,2022,2022
+CD275,Nginx,https://stackoverflow.com/questions/74735021,Missing proxy_read_timeout 86400,Functionality,2022,2022
+CD276,Nginx,https://stackoverflow.com/questions/74868724,port ranging from 0-1023 as it is intended for system use. Hence updated the answer to allow ports from 1025:65535,Functionality,2022,2022
+CD277,Nginx,https://stackoverflow.com/questions/74755384/,https HTTP_PROXY_NAME=foo.org HTTP_SCHEME=https,Security,2022,2022
+CD278,Nginx,https://stackoverflow.com/questions/73617220,missing config proxy_set_header Host $http_host;,Functionality,2022,2022
+CD279,Nginx,https://stackoverflow.com/questions/73236968,wrong config for try_files $uri $uri/ =404;      ,Functionality,2022,2022
+CD280,Nginx,https://stackoverflow.com/questions/72480039/,increase ingress resource:  increase the body size of files,Functionality,2022,2022
+CD281,PHP,https://serverfault.com/questions/1114237/,two differernt version of PHP listen to one port,Functionality,2022,2022
+CD282,Nginx,https://stackoverflow.com/questions/72405739,parameter list lost some pages,Functionality,2022,2024
+CD283,Nginx,https://stackoverflow.com/questions/72158497,file too big make the cpu wait,Performance,2022,2022
+CD284,MySQL,https://stackoverflow.com/questions/57894799/,MySQL version 5 or 8.0 and later. And your server is configured to use the protocol of TLS 1.2.,Functionality,2019,2022
+CD285,Nginx,https://stackoverflow.com/questions/71435230,out of memory,Performance,2022,2022
+CD286,Nginx,https://stackoverflow.com/questions/71326580,"a separate must be there to handle ""normal"" HTTP requests",Functionality,2022,2022
+CD287,Nginx,https://stackoverflow.com/questions/70937709/,proxy_set_header Connection $http_connection;,Functionality,2022,2023
+CD288,Nginx,https://stackoverflow.com/questions/71220793,utilise proxy_next_upstream and require request,Functionality,2022,2022
+CD289,Nginx,https://stackoverflow.com/questions/70741577,modifying keys_zone to larger value cache size,Performance,2022,2022
+CD290,Nginx,https://stackoverflow.com/questions/70908535,server block not active,Functionality,2022,2022
+CD291,Nginx,https://stackoverflow.com/questions/70804998/,redirect,Functionality,2022,2022
+CD292,Nginx,https://stackoverflow.com/questions/70552576,disable .autoindex on to prevent people see files,Security,2022,2022
+CD293,PostgreSQL,https://stackoverflow.com/questions/74875570,set the statement_timeout to kill the long running queries,Functionality,2022,2023
+CD294,PostgreSQL,https://stackoverflow.com/questions/74062827,compress file,Functionality,2022,2022
+CD295,PostgreSQL,https://stackoverflow.com/questions/73816497/,waiting time connectionTimeoutMillis,Functionality,2022,2022
+CD296,PostgreSQL,https://stackoverflow.com/questions/73108361/,func,Functionality,2022,2022
+CD297,PostgreSQL,https://stackoverflow.com/questions/70681193,set max_parallel_workers_per_gather=0  to 27 minutes from ~3 hour,Performance,2022,2022
+CD298,PHP,https://serverfault.com/questions/1109697,conflict config about php version,Functionality,2022,2022
+CD299,MySQL,https://stackoverflow.com/questions/71932828/,'Persist Value' set for max_allowed_packet.,Functionality,2022,2022
+CD300,PHP,https://stackoverflow.com/questions/74206394,different version conflict configs,Functionality,2022,2024
+CD301,Apache httpd,https://stackoverflow.com/questions/77119456,"applications with OAuth2 login are exposed to CSRF attacks, so it's a big mistake to disable CSRF protection)",Security,2023,2023
+CD302,Apache httpd,https://stackoverflow.com/questions/76302595,the default value for the timeout until the completion of SQL queries in Oracle REST Data Services was 15 minutes,Functionality,2023,2023
+CD303,Apache httpd,https://stackoverflow.com/questions/76573232,missing listen port,Functionality,2023,2023
+CD304,Apache httpd,https://stackoverflow.com/questions/76908292,do not setdefault SSLEngine off to on,Functionality,2023,2023
+CD305,Apache httpd,https://stackoverflow.com/questions/76044697,do not set default SSLEngine off to on,Functionality,2023,2023
+CD306,Hadoop,https://stackoverflow.com/questions/77494143,do not set fs.defaultFS to right value,Functionality,2023,2023
+CD307,Hadoop,https://stackoverflow.com/questions/77292415,do not set path of cache properly,Functionality,2023,2023
+CD308,Hadoop,https://stackoverflow.com/questions/76707529,the default configuration is to use only one partition for small dataset,Functionality,2023,2023
+CD309,Hadoop,https://stackoverflow.com/questions/76386805,The configuration keys differ between Presto and Hadoop,Functionality,2023,2023
+CD310,Hadoop,https://stackoverflow.com/questions/75655940,the interceptor was not defined a1.sources.r1.interceptors = i1,Functionality,2023,2023
+CD311,Nginx,https://stackoverflow.com/questions/77065725,do not set resolver  point to dockers container dns:,Functionality,2023,2023
+CD312,Others,https://stackoverflow.com/questions/76939220,do not set spring.jpa.hibernate.ddl-auto properly,Functionality,2023,2024
+CD313,MySQL,https://stackoverflow.com/questions/76898102,completly ignored client side settings.,Functionality,2023,2023
+CD314,Others,https://stackoverflow.com/questions/76832553,do not delete spring.jpa.hibernate.ddl-auto,Functionality,2023,2023
+CD315,Others,https://stackoverflow.com/questions/76802506,do not set xpack.security.enabled=false,Functionality,2023,2023
+CD316,MySQL,https://stackoverflow.com/questions/76577641,wrong value for spring.jpa.properties.hibernate.dialect,Functionality,2023,2023
+CD317,Others,https://stackoverflow.com/questions/76287046,spring.datasource.hikari.connectionTimeout too small,Functionality,2023,2023
+CD318,MySQL,https://stackoverflow.com/questions/75536396,do not set password for admin,Functionality,2023,2023
+CD319,Nginx,https://stackoverflow.com/questions/77543237,change the file path,Functionality,2023,2023
+CD320,Nginx,https://stackoverflow.com/questions/77423069,doesn't accept insecure connections should listen port 443,Functionality,2023,2023
+CD321,Nginx,https://stackoverflow.com/questions/77065725,do not set dns resolver ip,Functionality,2023,2023
+CD322,Nginx,https://stackoverflow.com/questions/76878906/,set client_body_in_file_only to clean to stop adding nodes,Functionality,2023,2023
+CD323,Nginx,https://stackoverflow.com/questions/76829379,did not set port to listen,Functionality,2023,2023
+CD324,Nginx,https://stackoverflow.com/questions/76818121/,should set ipv6,Functionality,2023,2023
+CD325,Nginx,https://stackoverflow.com/questions/76726779/,wrong port and lack of a configuration ,Functionality,2023,2023
+CD326,Nginx,https://stackoverflow.com/questions/76418037,add resolver 127.0.0.11 ipv6=off,Functionality,2023,2023
+CD327,Nginx,https://stackoverflow.com/questions/65656649/,add some configurations to files,Functionality,2021,2023
+CD328,Nginx,https://stackoverflow.com/questions/76234540,should use http not https,Functionality,2023,2023
+CD329,Nginx,https://stackoverflow.com/questions/76140440/,add some configurations to files,Functionality,2023,2023
+CD330,Nginx,https://stackoverflow.com/questions/76134183,add some configurations to files,Functionality,2023,2023
+CD331,Nginx,https://stackoverflow.com/questions/76075537/,add some configurations to files,Functionality,2023,2023
+CD332,Nginx,https://stackoverflow.com/questions/75918429,add some configurations to files,Functionality,2023,2023
+CD333,Others,https://stackoverflow.com/questions/75553467/,configure spring's property server.forward-headers-strategy to either native or framework,Functionality,2023,2023
+CD334,Nginx,https://stackoverflow.com/questions/75347224,did not listen to port 443,Functionality,2023,2023
+CD335,Nginx,https://stackoverflow.com/questions/75287059/,add resolver 1.1.1.1 valid=30s;,Functionality,2023,2023
+CD336,Nginx,https://stackoverflow.com/questions/75170803/,"add a slash at the end of the location,",Functionality,2023,2023
+CD337,Nginx,https://stackoverflow.com/questions/75071474/,did not set port to listen,Functionality,2023,2023
+CD338,Nginx,https://stackoverflow.com/questions/75046077,set proxy_ssl_server_name on,Functionality,2023,2023
+CD339,PostgreSQL,https://stackoverflow.com/questions/67824003,providing a filtering rule to slot.stream.params,Functionality,2021,2023
+CD340,Nginx,https://serverfault.com/questions/1127094,add the add_header to configuration file,Functionality,2023,2023
+CD341,PHP,https://stackoverflow.com/questions/77202310,extension=zip,Functionality,2023,2023
+CD342,PHP,https://stackoverflow.com/questions/76404967,add listen.owner and group,Functionality,2023,2023
+CD343,PHP,https://stackoverflow.com/questions/76221455,set memory_limit max_post_size upload_max_filesize,Functionality,2023,2023
+CD344,PHP,https://stackoverflow.com/questions/76146279/,html_errors is set to false,Functionality,2023,2023
+CD345,PHP,https://stackoverflow.com/questions/75398516,adding the “extension=php_intl.dll” line in my php.ini configuration file,Functionality,2023,2023
+CD346,PHP,https://stackoverflow.com/questions/75388969,add some configurations to files,Functionality,2023,2023
+CD347,PHP,https://stackoverflow.com/questions/75319328/, increase your 'maximum execution time'  PHP configuration.,Functionality,2023,2023
+CD348,Nginx,https://stackoverflow.com/questions/75046077/,adding proxy_ssl_server_name on;,Functionality,2023,2023
+CD349,Apache httpd,https://serverfault.com/questions/1130594,Apache httpd should always be configured with ProxyRequests Off,Functionality,2023,2023
+CD350,MySQL,https://serverfault.com/questions/1132417/,Lower innodb_buffer_pool_size,Functionality,2023,2023
+CD351,Nginx,https://serverfault.com/questions/1148484/,did not listen to port 443,Functionality,2023,2024
+CD352,Nginx,https://serverfault.com/questions/1147982/,add some configurations to files,Functionality,2023,2023
+CD353,Nginx,https://serverfault.com/questions/1131843/,increasing the buffer size proxy_buffer_size,Functionality,2023,2023
