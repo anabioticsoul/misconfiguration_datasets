@@ -70,10 +70,11 @@ and configuration fault\*.
 | TSE | IEEE Transactions on Software Engineering |
 | USENIX ATC | USENIX Annual Technical Conference |
 
-### The content of paper list
+### content
 The list of papers for misconfiguration troubleshooting includes `YEAR, TITLE, LINK`.
 
 ## Reproduced misconfiguration scenarios
+### descriptions
 Each compressed file is named after the `case ID` and only contains one real-world misconfiguration scenario.
 
 ## Cite this work
