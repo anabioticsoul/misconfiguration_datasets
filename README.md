@@ -1,11 +1,11 @@
 # Misconfiguration Datasets
 This datasets consist of real-world misconfiguration cases, papers for misconfiguration troubleshooting, and six reproduced scenarios in Docker.
 
-[cases/](#Misconfiguration-cases): It contains both raw data and the labeled datasets of the real-world misconfiguration cases.
+- [cases/](#Misconfiguration-cases): It contains both raw data and the labeled datasets of the real-world misconfiguration cases.
 
-[papers/](#Misconfiguration-troubleshooting-papers): It contains a list of papers for misconfiguration troubleshooting.
+- [papers/](#Misconfiguration-troubleshooting-papers): It contains a list of papers for misconfiguration troubleshooting.
 
-[reproduced_scenarios/](#Reproduced-misconfiguration-scenarios): It contains six reproduced real-world software misconfiguration scenarios which is wrapped Docker containers.
+- [reproduced_scenarios/](#Reproduced-misconfiguration-scenarios): It contains six reproduced real-world software misconfiguration scenarios which is wrapped Docker containers.
 
 ## Misconfiguration cases
 
