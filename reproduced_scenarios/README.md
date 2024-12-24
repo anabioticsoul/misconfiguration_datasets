@@ -13,7 +13,7 @@
 ```sh
 docker import [CaseID].tar.gz [image-name]:latest
 ```
-3. Run scenarios
+3. Run the specified scenario.
 ```sh
 docker run -it [image-name] bash
 ```
