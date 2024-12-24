@@ -1,7 +1,0 @@
-reproduced_scenarios/README.md filter=lfs diff=lfs merge=lfs -text
-reproduced_scenarios/CA14 filter=lfs diff=lfs merge=lfs -text
-reproduced_scenarios/CA35 filter=lfs diff=lfs merge=lfs -text
-reproduced_scenarios/CA54 filter=lfs diff=lfs merge=lfs -text
-reproduced_scenarios/CB116 filter=lfs diff=lfs merge=lfs -text
-reproduced_scenarios/CD202 filter=lfs diff=lfs merge=lfs -text
-reproduced_scenarios/CD223 filter=lfs diff=lfs merge=lfs -text
