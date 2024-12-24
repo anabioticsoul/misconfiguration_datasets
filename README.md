@@ -65,7 +65,8 @@ and `configuration fault\*`.
 | EuroSys | European Conference on Computer Systems |
 | ICSE | International Conference on Software Engineering |
 | NSDI | Symposium on Network System Design and Implementation |
-| OOPSLA | Conference on| SOSP | ACM Symposium on Operating Systems Principles |
+| OOPSLA | Conference on Object-Oriented Programming Systems, Languages, and Applications |
+| SOSP | ACM Symposium on Operating Systems Principles |
 | TDSC | IEEE Transactions on Dependable and Secure Computing |
 | TSE | IEEE Transactions on Software Engineering |
 | USENIX ATC | USENIX Annual Technical Conference |
