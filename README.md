@@ -79,3 +79,11 @@ Each compressed file is named after the `case ID` and only contains one real-wor
 
 ## Cite this work
 We would appreciate it if you cite this paper utilizing the misconfiguration datasets in your research work: Yuhao Liu et al. "Rethinking Software Misconfigurations in the Real World: An Empirical Study and Literature Analysis".
+```bib
+@article{liu2024rethinking,
+  title={Rethinking Software Misconfigurations in the Real World: An Empirical Study and Literature Analysis},
+  author={Liu, Yuhao and Zhou, Yingnan and Zhang, Hanfeng and Chang, Zhiwei and Xu, Sihan and Jia, Yan and Wang, Wei and Liu, Zheli},
+  journal={arXiv preprint arXiv:2412.11121},
+  year={2024}
+}
+```
