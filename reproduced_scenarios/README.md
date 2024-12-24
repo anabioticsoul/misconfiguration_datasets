@@ -1,4 +1,4 @@
-# Reproduced cases
+# Reproduced scenarios
 ### Description
 - `CA14`: The `default-time-zone` option in the my.cnf file is incorrectly set with underscores instead of dashes.
 - `CA35`: The `password` option is missing the quotes around the option value.
