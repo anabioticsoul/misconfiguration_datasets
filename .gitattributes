@@ -5,3 +5,9 @@ reproduced_scenarios/CA54 filter=lfs diff=lfs merge=lfs -text
 reproduced_scenarios/CB116 filter=lfs diff=lfs merge=lfs -text
 reproduced_scenarios/CD202 filter=lfs diff=lfs merge=lfs -text
 reproduced_scenarios/CD223 filter=lfs diff=lfs merge=lfs -text
+reproduced_scenarios/CD223/CD223.tar.gz filter=lfs diff=lfs merge=lfs -text
+reproduced_scenarios/CA14/CA14.tar.gz filter=lfs diff=lfs merge=lfs -text
+reproduced_scenarios/CA35/CA35.tar.gz filter=lfs diff=lfs merge=lfs -text
+reproduced_scenarios/CA54/CA54.tar.gz filter=lfs diff=lfs merge=lfs -text
+reproduced_scenarios/CB116/CB116.tar.gz filter=lfs diff=lfs merge=lfs -text
+reproduced_scenarios/CD202/CD202.tar.gz filter=lfs diff=lfs merge=lfs -text
