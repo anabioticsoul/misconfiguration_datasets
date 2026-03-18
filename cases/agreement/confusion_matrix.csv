@@ -1,0 +1,15 @@
+,B:Ambiguous name,B:Cross-comp. misconfig.,B:Duplicate option,B:Hardware limitation,B:Identifier error,B:Incompatible,B:Invalid name,B:Misplaced config.,B:Missing,B:Multi-config. error,B:Requirement mismatch,B:Resource competing,B:Syntax error,B:Unauthorized access
+A:Ambiguous name,51,0,0,0,0,0,0,0,1,0,48,0,1,0
+A:Cross-comp. misconfig.,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+A:Duplicate option,0,0,21,0,0,0,0,0,0,0,0,0,0,0
+A:Hardware limitation,0,0,0,13,0,0,0,0,0,0,0,1,0,0
+A:Identifier error,0,0,0,0,160,0,0,0,0,0,0,4,1,0
+A:Incompatible,0,0,0,0,0,58,0,0,0,0,0,0,0,0
+A:Invalid name,0,0,0,0,0,0,16,0,0,0,0,0,0,0
+A:Misplaced config.,0,0,0,0,1,0,0,41,0,0,0,0,0,0
+A:Missing,0,0,0,0,0,1,0,0,42,0,0,0,0,0
+A:Multi-config. error,0,0,0,0,0,0,0,0,0,15,0,0,0,0
+A:Requirement mismatch,1,0,0,0,1,0,0,1,1,0,157,0,1,0
+A:Resource competing,0,0,0,1,7,0,0,0,0,0,0,11,0,0
+A:Syntax error,0,0,0,0,1,0,0,3,0,1,0,0,49,0
+A:Unauthorized access,0,0,0,0,1,0,0,0,0,0,0,0,0,70
