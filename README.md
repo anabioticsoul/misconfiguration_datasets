@@ -53,7 +53,7 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 2. We crawled the papers from the top venues from December 2003 to September 2024. The keyword set includes `configuration\*`, `misconfiguration\*`, `configure\*`, `configuration error\*`, and `configuration fault\*`.
 3. We screened papers against our review scope and retained the studies relevant to software misconfiguration troubleshooting, (i.e., software misconfiguration detection and diagnosis).
 4. We further performed backward and forward snowballing on the screened papers. Specifically, we searched for the papers cited by these papers or those cited these papers and identified whether they were relevant papers.
-5. The current paper set contains 58 studies based on the revised screening results.
+5. The current paper set contains 59 studies based on the revised screening results.
 
 | **Acronym** | **Venues**                                                                                                  |
 | ----------- | ----------------------------------------------------------------------------------------------------------- |
