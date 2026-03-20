@@ -1,0 +1,60 @@
+﻿ID,Title,Year,Acronym
+A1,PeerPressure: A Statistical Method for Automatic Misconfiguration Troubleshooting,2003,MSR-TR
+A2,Configuration Debugging as Search: Finding the Needle in the Haystack,2004,OSDI
+A3,Automatic Misconfiguration Troubleshooting with PeerPressure,2004,OSDI
+A4,"Strider: a black-box, state-based approach to change and configuration management and support",2004,SCP
+A5,Combining High Level Symptom Descriptions and Low Level State Information for Configuration Fault Diagnosis,2004,LISA
+A6,Automated known problem diagnosis with event traces,2006,EuroSys
+A7,AutoBash: improving configuration management with operating system causality analysis,2007,SOSP
+A8,Triage: Diagnosing production run failures at the user’s site,2007,SOSP
+A9,Snitch: interactive decision trees for troubleshooting misconfigurations,2007,SysML
+A10,Towards automatic reverse engineering of software security configurations,2008,CCS
+A11,Automatic software fault diagnosis by exploiting application signatures,2008,LISA
+A12,Using causality to diagnose configuration bugs,2008,USENIX ATC
+A13,Automated Diagnosis of Product-Line Configuration Errors in Feature Models,2008,SPLC
+A14,Automatically generating predicates and solutions for configuration troubleshooting,2009,USENIX ATC
+A15,Automating Configuration Troubleshooting with Dynamic Information Flow Analysis,2010,OSDI
+A16,SherLog: Error Diagnosis by Connecting Clues from Run-time Logs,2010,ASPLOS
+A17,Automated diagnosis of feature model configurations,2010,JSS
+A18,Capturing Expert Knowledge for Automated Configuration Fault Diagnosis,2011,ICPC
+A19,Using Static Analysis to Diagnose Configuration Errors,2011,ISSTA
+A20,Context-based Online Configuration-Error Detection,2011,USENIX ATC
+A21,Precomputing possible configuration error diagnoses,2011,ASE
+A22,X-ray: Automating Root-Cause Diagnosis of Performance Anomalies in Production Software,2012,OSDI
+A23,Misconfiguration Detection for Cloud Datacenters using Decision Tree Analysis,2012,APNOMS
+A24,ConfDiagnoser: an automated configuration error diagnosis tool for Java software,2013,ICSE
+A25,Do not blame users for misconfigurations,2013,SOSP
+A26,A Differential Approach for Configuration Fault Localization in Cloud Environments,2013,IC2E
+A27,Confeagle: Automated Analysis of Configuration Vulnerabilities in Web Applications,2013,SERE
+A28,Automated diagnosis of software configuration errors,2013,ICSE
+A29,Automated diagnosis of software misconfigurations based on static analysis,2013,ISSREW
+A30,SmartFixer: fixing software configurations based on dynamic priorities,2013,SPLC
+A31,EnCore: exploiting system environment and correlation information for misconfiguration detection,2014,ASPLOS
+A32,Which Configuration Option Should I Change,2014,ICSE
+A33,ConfValley: a systematic configuration validation framework for cloud services,2015,EUROSYS
+A34,Practical and accurate pinpointing of configuration errors using static analysis,2015,ICSME
+A35,Early Detection of Configuration Errors to Reduce Failure Damage,2016,OSDI
+A36,Probabilistic Automated Language Learning for Configuration Files,2016,CAV
+A37,Synthesizing Configuration File Specifications with Association Rule Learning,2017,OOPSLA
+A38,Dexter: Faster Troubleshooting of Misconfiguration Cases Using System Logs,2017,SYSTOR
+A39,On Cross-Stack Configuration Errors,2017,ICSE
+A40,Understanding and Auto-Adjusting Performance-Sensitive Configurations,2018,ASPLOS
+A41,Scout: An Experienced Guide to Find the Best Cloud Configuration,2018,CoRR
+A42,Sophia: Online Reconfiguration of Clustered NoSQL Databases for Time-Varying Workloads,2019,USENIX ATC
+A43,Configcrusher: White-box performance analysis for configurable systems,2019,ASE
+A44,Statically inferring performance properties of software configurations,2020,EUROSYS
+A45,Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis,2020,NSDI
+A46,Predicting Hadoop misconfigurations using machine learning,2020,SPE
+A47,PracExtractor: Extracting Configuration Good Practices from Manuals to Detect Server Misconfigurations,2020,USENIX ATC
+A48,ConfigMiner: Identifying the Appropriate Configuration Options for Config-Related User Questions by Mining Online Forums,2021,TSE
+A49,ConfProf: White-Box Performance Profiling of Configuration Options,2021,ICPE
+A50,Software Misconfiguration Troubleshooting Based on State Analysis,2021,DSC
+A51,Static detection of silent misconfigurations with deep interaction analysis,2021,OOPSLA
+A52,White-box performance-influence models: A profiling and learning approach,2021,ICSE
+A53,AgileCtrl: a self-adaptive framework for configuration tuning,2022,ESEC/FSE
+A54,Multi-Intention-Aware Configuration Selection for Performance Tuning,2022,ICSE
+A55,Multi-Misconfiguration Diagnosis via Identifying Correlated Configuration Parameters,2023,TSE
+A56,DiagConfig: Configuration Diagnosis of Performance Violations in Configurable Software Systems,2023,ESEC
+A57,Face It Yourselves: An LLM-Based Two-Stage Strategy to Localize Configuration Errors via Logs,2024,ISSTA
+A58,Real-Time Diagnosis of Configuration Errors for Software of AI Server Infrastructure,2024,TDSC
+A59,LLM-Based Misconfiguration Detection for AWS Serverless Computing,2024,TOSEM
