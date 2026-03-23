@@ -11,16 +11,17 @@ The current structure is organized by analysis stage:
 
 ### Filtering process
 
-This directory contains the intermediate artifacts generated during the case selection process.
+This directory contains the intermediate artifacts generated during the case selection process. These files record how candidate cases were filtered and refined before obtaining the final set of real-world misconfiguration cases.
 
-These files record how candidate cases were filtered and refined before obtaining the final set of real-world misconfiguration cases.
+The current files include:
 
+- `00_raw_dataset_168054.csv`: the initial raw dataset of collected candidate cases
+- `01_issue_filtering_2313.csv`: the manually screened candidate cases after the initial filtering stage
+- `02_final_dataset_772.csv`: the final set of included real-world misconfiguration cases
+  
 ### Classification
 
-This directory contains the final classified dataset of misconfiguration cases.
-
-The classified cases include root-cause labels based on our revised taxonomy.  
-Each case record is associated with a root-cause category and a more fine-grained subtype.
+This directory contains the final classified dataset of misconfiguration cases. The classified cases include root-cause labels based on our revised taxonomy. Each case record is associated with a root-cause category and a more fine-grained subtype.
 
 The four high-level root-cause categories are:
 
@@ -38,9 +39,27 @@ The corresponding subtypes include:
 
 ### Agreement formation
 
-This directory contains the files used for inter-rater agreement analysis.
+This directory contains the files used for inter-rater agreement analysis. These materials are provided to improve the transparency of the manual annotation process and to support the reproducibility of the case-labeling procedure.
 
-These materials are provided to improve the transparency of the manual annotation process and to support the reproducibility of the case-labeling procedure.
+#### Agreement for filtering
+
+The `agreement/filtering/` directory contains the files used to evaluate consistency in the manual case screening process.
+
+The current files include:
+
+- `filter_labeling.csv`: the independent screening labels used for agreement calculation
+- `confusion_matrix.csv`: the confusion matrix for the filtering decisions
+- `final_kappa.log`: the final agreement statistics for the filtering stage
+
+#### Agreement for classification
+
+The `agreement/classification/` directory contains the files used to evaluate consistency in the root-cause labeling process.
+
+The current files include:
+
+- `taxonomy_labeling.csv`: the independent taxonomy labels used for agreement calculation
+- `confusion_matrix.csv`: the confusion matrix for the classification results
+- `case_final_kappa.log`: the final agreement statistics for the classification stage
 
 ## Case Fields
 
