@@ -41,7 +41,7 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 |                                         | Resource competition                | 9           |
 |                                         | Unauthorized resource access        | 70          |
 |                                         | Hardware limitation                 | 15          |
-| **Component-dependency error**          | Component incompatibility           | 58          |
+| **Component integration error**         | Component incompatibility           | 58          |
 |                                         | Component missing                   | 42          |
 | **Configuration semantic misinterpretation** | Ambiguous option name          | 206         |
 |                             | Option value and functional requirement mismatch| 53          |

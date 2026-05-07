@@ -32,7 +32,7 @@ The four high-level root-cause categories are:
 
 The corresponding subtypes include:
 
-- **Constraint violation**: _syntax error_, _invalid option name_, _misplaced configuration_, _duplicate option_, _intra-component error_, and _inter-component error_
+- **Constraint violation**: _syntax error_, _invalid option name_, _misplaced configuration_, _duplicate option_, _intra-component error_, and _cross-component error_
 - **Resource unavailability**: _resource identifier mismatch_, _resource competition_, _unauthorized resource access_, and _hardware limitation_
 - **Component integration error**: _component incompatibility_, and _component missing_
 - **Configuration semantic misinterpretation**: _ambiguous option name_, and _option value and functional requirement mismatch_
