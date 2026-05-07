@@ -27,14 +27,14 @@ The four high-level root-cause categories are:
 
 - `CA`: Constraint violation
 - `CB`: Resource unavailability
-- `CC`: Component-dependency error
+- `CC`: Component integration error
 - `CD`: Configuration semantic misinterpretation
 
 The corresponding subtypes include:
 
-- **Constraint violation**: _syntax error_, _invalid name_, _misplaced configuration_, _duplicate option_, and _multi-configuration error_
+- **Constraint violation**: _syntax error_, _invalid option name_, _misplaced configuration_, _duplicate option_, _intra-component error_, and _inter-component error_
 - **Resource unavailability**: _resource identifier mismatch_, _resource competition_, _unauthorized resource access_, and _hardware limitation_
-- **Component-dependency error**: _component incompatibility_, _component missing_, and _cross-component misconfiguration_
+- **Component integration error**: _component incompatibility_, and _component missing_
 - **Configuration semantic misinterpretation**: _ambiguous option name_, and _option value and functional requirement mismatch_
 
 ### Agreement formation

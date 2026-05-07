@@ -27,12 +27,12 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 ### Collecting and analyzing
 1. We selected 2,313 solved and configuration-related cases from 168,054 collected issues.
 2. we manually inspected all 2,313 cases and sampled out 772 real-world misconfigurations cases.
-3. We categorized the root causes of misconfigurations into four groups, i.e., constraint violation, resource unavailability, component-dependency error, and configuration semantic misinterpretation.
+3. We categorized the root causes of misconfigurations into four groups, i.e., constraint violation, resource unavailability, component integration error, and configuration semantic misinterpretation.
 
 | **Type**                                | **Subtype**                         | **# Cases** |
 |-----------------------------------------|-------------------------------------|-------------|
 | **Constraint violation**                | Syntax error                        | 54          |
-|                                         | Invalid name                        | 16          |
+|                                         | Invalid option name                 | 16          |
 |                                         | Misplaced configuration             | 42          |
 |                                         | Duplicate option                    | 21          |
 |                                         | Intra-component error               | 15          |
