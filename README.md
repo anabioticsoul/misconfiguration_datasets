@@ -25,7 +25,7 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 | **Total**     | 168054 | 2313          | 772               |
 
 ### Collecting and analyzing
-1. We selected 2,313 solved and configuration-related cases from nearly 167.8 thousand total items.
+1. We selected 2,313 solved and configuration-related cases from 168,054 collected issues.
 2. we manually inspected all 2,313 cases and sampled out 772 real-world misconfigurations cases.
 3. We categorized the root causes of misconfigurations into four groups, i.e., constraint violation, resource unavailability, component-dependency error, and configuration semantic misinterpretation.
 

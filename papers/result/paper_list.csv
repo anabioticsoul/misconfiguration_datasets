@@ -46,15 +46,16 @@ A44,Statically inferring performance properties of software configurations,2020,
 A45,Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis,2020,NSDI
 A46,Predicting Hadoop misconfigurations using machine learning,2020,SPE
 A47,PracExtractor: Extracting Configuration Good Practices from Manuals to Detect Server Misconfigurations,2020,USENIX ATC
-A48,ConfigMiner: Identifying the Appropriate Configuration Options for Config-Related User Questions by Mining Online Forums,2021,TSE
-A49,ConfProf: White-Box Performance Profiling of Configuration Options,2021,ICPE
-A50,Software Misconfiguration Troubleshooting Based on State Analysis,2021,DSC
-A51,Static detection of silent misconfigurations with deep interaction analysis,2021,OOPSLA
-A52,White-box performance-influence models: A profiling and learning approach,2021,ICSE
-A53,AgileCtrl: a self-adaptive framework for configuration tuning,2022,ESEC/FSE
-A54,Multi-Intention-Aware Configuration Selection for Performance Tuning,2022,ICSE
-A55,Multi-Misconfiguration Diagnosis via Identifying Correlated Configuration Parameters,2023,TSE
-A56,DiagConfig: Configuration Diagnosis of Performance Violations in Configurable Software Systems,2023,ESEC
-A57,Face It Yourselves: An LLM-Based Two-Stage Strategy to Localize Configuration Errors via Logs,2024,ISSTA
-A58,Real-Time Diagnosis of Configuration Errors for Software of AI Server Infrastructure,2024,TDSC
-A59,LLM-Based Misconfiguration Detection for AWS Serverless Computing,2024,TOSEM
+A48,Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution,2020,OSDI
+A49,ConfigMiner: Identifying the Appropriate Configuration Options for Config-Related User Questions by Mining Online Forums,2021,TSE
+A50,ConfProf: White-Box Performance Profiling of Configuration Options,2021,ICPE
+A51,Software Misconfiguration Troubleshooting Based on State Analysis,2021,DSC
+A52,Static detection of silent misconfigurations with deep interaction analysis,2021,OOPSLA
+A53,White-box performance-influence models: A profiling and learning approach,2021,ICSE
+A54,AgileCtrl: a self-adaptive framework for configuration tuning,2022,ESEC/FSE
+A55,Multi-Intention-Aware Configuration Selection for Performance Tuning,2022,ICSE
+A56,Multi-Misconfiguration Diagnosis via Identifying Correlated Configuration Parameters,2023,TSE
+A57,DiagConfig: Configuration Diagnosis of Performance Violations in Configurable Software Systems,2023,ESEC
+A58,Face It Yourselves: An LLM-Based Two-Stage Strategy to Localize Configuration Errors via Logs,2024,ISSTA
+A59,Real-Time Diagnosis of Configuration Errors for Software of AI Server Infrastructure,2024,TDSC
+A60,LLM-Based Misconfiguration Detection for AWS Serverless Computing,2024,TOSEM
