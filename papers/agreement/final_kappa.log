@@ -1,0 +1,23 @@
+Total items: 473, Valid pairs: 473
+=== Paper Decision Cohen's Kappa ===
+n_items = 473
+kappa   = 0.728817
+Po      = 0.930233
+Pe      = 0.742729
+
+Label counts (A):
+A
+Exclude    393
+Include     80
+Name: count, dtype: int64
+
+Label counts (B):
+B
+Exclude    410
+Include     63
+Name: count, dtype: int64
+
+Confusion matrix:
+           B:Exclude  B:Include
+A:Exclude        385          8
+A:Include         25         55
