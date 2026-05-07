@@ -35,14 +35,14 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 |                                         | Invalid name                        | 16          |
 |                                         | Misplaced configuration             | 42          |
 |                                         | Duplicate option                    | 21          |
-|                                         | Multi-configuration error           | 15          |
+|                                         | Intra-component error               | 15          |
+|                                         | Cross-component error               | 23          |
 | **Resource unavailability**             | Resource identifier mismatch        | 178         |
 |                                         | Resource competition                | 9           |
 |                                         | Unauthorized resource access        | 70          |
 |                                         | Hardware limitation                 | 15          |
 | **Component-dependency error**          | Component incompatibility           | 58          |
 |                                         | Component missing                   | 42          |
-|                                         | Cross-component misconfiguration    | 23          |
 | **Configuration semantic misinterpretation** | Ambiguous option name          | 206         |
 |                             | Option value and functional requirement mismatch| 53          |
 
@@ -53,7 +53,7 @@ This datasets consist of real-world misconfiguration cases, papers for misconfig
 2. We crawled the papers from the top venues from December 2003 to September 2024. The keyword set includes `configuration\*`, `misconfiguration\*`, `configure\*`, `configuration error\*`, and `configuration fault\*`.
 3. We screened papers against our review scope and retained the studies relevant to software misconfiguration troubleshooting, (i.e., software misconfiguration detection and diagnosis).
 4. We further performed backward and forward snowballing on the screened papers. Specifically, we searched for the papers cited by these papers or those cited these papers and identified whether they were relevant papers.
-5. The current paper set contains 59 studies based on the revised screening results.
+5. The current paper set contains 60 studies based on the revised screening results.
 
 | **Acronym** | **Venues**                                                                                                  |
 | ----------- | ----------------------------------------------------------------------------------------------------------- |
